@@ -1,1 +1,1 @@
-"# Projekt na przedmiot Sztuczna inteligencja" 
+# Projekt na przedmiot Sztuczna inteligencja
