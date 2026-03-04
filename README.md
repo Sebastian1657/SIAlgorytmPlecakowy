@@ -11,3 +11,7 @@ Struktury wyboru:
 
 Ograniczenie globalne:
 Całkowita masa (kg) wybranych elementów zbroi oraz zawartości plecaka nie może przekroczyć maksymalnego udźwigu postaci.
+
+Wykonali:
+Szymon Muttka 21278
+Sebastian Miler 21277
