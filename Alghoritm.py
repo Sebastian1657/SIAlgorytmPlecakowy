@@ -1,22 +1,36 @@
 import RandomSolution
 
-def CalculateFitnessScore(harmonia, stat):
+def CalculateFitnessScore(harmonia: dict, focus_stat: str) -> float:
     stats = ['pancerz', 'zdrowie', 'mana', 'obrazenia', 'charyzma']
-    if stat not in stats:
-        raise ValueError(f"Nieznana statystyka: {stat}. Dostępne statystyki: {stats}")
     
-    if stat == 'pancerz':
-        return sum([item['pancerz'] for item in harmonia['zbroja'].values()])
-    elif stat == 'zdrowie':
-        return sum([item['zdrowie'] for item in harmonia['zbroja'].values()])
-    elif stat == 'mana':
-        return sum([item['mana'] for item in harmonia['zbroja'].values()])
-    elif stat == 'obrazenia':
-        return sum([item['obrazenia'] for item in harmonia['zbroja'].values()])
-    # Prosty model oceny - można rozbudować o inne czynniki
-    fitness_score = pancerz * 0.4 + zdrowie * 0.3 + mana * 0.2 + obrazenia * 0.1
+    if focus_stat not in stats:
+        raise ValueError(f"Nieznana statystyka: {focus_stat}. Dostępne: {stats}")
+
+    # Definicja mnożników (można je później przenieść do konfiguracji globalnej)
+    WAGA_GLOWNA = 1.0
+    WAGA_POBOCZNA = 0.6
     
-    return fitness_score;
+    calkowity_wynik = 0.0
+    
+    # 1. Sumowanie statystyk ze zbroi
+    for item in harmonia['zbroja'].values():
+        if item.get('id') is not None:  # Pominięcie pustych slotów
+            for statystyka in stats:
+                mnoznik = WAGA_GLOWNA if statystyka == focus_stat else WAGA_POBOCZNA
+                calkowity_wynik += item.get(statystyka, 0) * mnoznik
+                
+    # 2. Sumowanie statystyk z plecaka
+    for item in harmonia['plecak']:
+        ilosc = item.get('wylosowana_ilosc', 1)
+        for statystyka in stats:
+            mnoznik = WAGA_GLOWNA if statystyka == focus_stat else WAGA_POBOCZNA
+            # Mnożymy wartość statystyki przez ilość sztuk w stacku i przez wagę
+            calkowity_wynik += (item.get(statystyka, 0) * ilosc) * mnoznik
+            
+    # Zapis w strukturze dla łatwiejszego sortowania
+    harmonia['fitness_score'] = round(calkowity_wynik, 2)
+    
+    return harmonia['fitness_score']
 
 def HarmonySearch():
     HMS = 50
