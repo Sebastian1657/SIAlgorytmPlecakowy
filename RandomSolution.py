@@ -5,10 +5,11 @@ from typing import List, Dict, Any
 
 from DataConvertion import load_csv
 
-def RandomSolution(przedmioty: List[Dict[str, Any]]) -> Dict[str, Any]:
-    """
-    Generuje pojedyncze, w pełni legalne rozwiązanie (wektor harmonii).
-    """
+def RandomSolution(przedmioty: Any) -> Dict[str, Any]:
+    # Pozwala wywolywac funkcje zarowno z lista przedmiotow, jak i ze sciezka do CSV
+    if isinstance(przedmioty, str):
+        przedmioty = load_csv(przedmioty)
+
     harmonia = {
         'zbroja': {},
         'plecak': [],
