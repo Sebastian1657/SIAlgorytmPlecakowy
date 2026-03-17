@@ -1,4 +1,3 @@
-import argparse
 import random
 import RandomSolution
 
@@ -45,21 +44,37 @@ def ImplementPenalty(harmonia: dict, max_weight: float, max_slots: int) -> None:
         penalty = nadmiar_slotow * 5
         harmonia['fitness_score'] -= penalty
 
-def InitializeHarmonyMemory(HMS, focus_stat, max_weight=100.0):
+def BuildPlayerStats(harmonia: dict) -> dict:
+    stats = ['pancerz', 'zdrowie', 'mana', 'obrazenia', 'charyzma']
+    totals = {stat: 0 for stat in stats}
+
+    for item in harmonia['zbroja'].values():
+        if item.get('id') is not None:
+            for stat in stats:
+                totals[stat] += item.get(stat, 0)
+
+    for item in harmonia['plecak']:
+        ilosc = item.get('wylosowana_ilosc', 1)
+        for stat in stats:
+            totals[stat] += item.get(stat, 0) * ilosc
+
+    return totals
+
+def InitializeHarmonyMemory(HMS, focus_stat, max_weight=100.0, max_slots=20, items_file="przedmioty.csv"):
     HM = []
     for i in range(HMS):
-        harmonia = RandomSolution.RandomSolution("przedmioty.csv")
+        harmonia = RandomSolution.RandomSolution(items_file, max_slots)
         CalculateFitnessScore(harmonia, focus_stat)
-        ImplementPenalty(harmonia, max_weight)
+        ImplementPenalty(harmonia, max_weight, max_slots)
         HM.append(harmonia)
     return HM
 
-def HarmonySearch(focus_stat, max_weight, max_slots):
+def HarmonySearch(focus_stat, max_weight, max_slots, items_file="przedmioty.csv"):
     HMS = 25
     HMCR = 0.7
-    NI = 10000
+    NI = 25000
     r1 = random.randint(1,100)/100
-    HM = InitializeHarmonyMemory(HMS, focus_stat, max_weight)
+    HM = InitializeHarmonyMemory(HMS, focus_stat, max_weight, max_slots, items_file)
     NewSolution = {}
 
     for iteration in range(NI):
@@ -77,30 +92,6 @@ def HarmonySearch(focus_stat, max_weight, max_slots):
         if NewSolution['fitness_score'] > HM[-1]['fitness_score']:
             HM[-1] = NewSolution
     best = HM[0]
-    armor = best.get('zbroja', {})
-    backpack = best.get('plecak', [])
-
-    print("Najlepsze rozwiazanie:")
-    print(f"  Fitness: {best.get('fitness_score')}")
-    print(f"  Calkowita waga: {best.get('calkowita_waga')}")
-    print(f"  Zajete sloty: {best.get('zajete_sloty')}")
-    print("  Zbroja:")
-    for slot, item in armor.items():
-        if item.get('id') is None:
-            print(f"    - {slot}: (pusty)")
-        else:
-            print(f"    - {slot}: id={item.get('id')}, waga={item.get('waga_kg')}, pancerz={item.get('pancerz')}, zdrowie={item.get('zdrowie')}, mana={item.get('mana')}, obrazenia={item.get('obrazenia')}")
-    print(f"  Plecak ({len(backpack)}):")
-    for item in backpack:
-        ilosc = item.get('wylosowana_ilosc', 1)
-        print(f"    - id={item.get('id')}, ilosc={ilosc}, waga={item.get('waga_kg')}, pancerz={item.get('pancerz')}, zdrowie={item.get('zdrowie')}, mana={item.get('mana')}, obrazenia={item.get('obrazenia')}")
-
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Algorytm Harmony Search dla problemu plecakowego.")
-    parser.add_argument("-f", "--focus", type=str, default='pancerz', help="Statystyka, na której skupia się algorytm (domyślnie 'pancerz').")
-    parser.add_argument("-w", "--max-weight", type=float, default=100.0, help="Maksymalna waga plecaka (domyślnie 100.0).")
-    parser.add_argument("-s", "--max-slots", type=int, default=20, help="Maksymalna liczba zajętych slotów w plecaku (domyślnie 20).")
-    args = parser.parse_args()
-
-    HarmonySearch(focus_stat=args.focus, max_weight=args.max_weight, max_slots=args.max_slots)
-    
+    best['player_stats'] = BuildPlayerStats(best)
+    best['focus_stat'] = focus_stat
+    return best

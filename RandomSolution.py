@@ -5,7 +5,7 @@ from typing import List, Dict, Any
 
 from DataConvertion import load_csv
 
-def RandomSolution(przedmioty: Any) -> Dict[str, Any]:
+def RandomSolution(przedmioty: Any, max_slots: int = 20) -> Dict[str, Any]:
     # Pozwala wywolywac funkcje zarowno z lista przedmiotow, jak i ze sciezka do CSV
     if isinstance(przedmioty, str):
         przedmioty = load_csv(przedmioty)
@@ -45,7 +45,7 @@ def RandomSolution(przedmioty: Any) -> Dict[str, Any]:
     random.shuffle(plecak_pula)
     
     for p in plecak_pula:
-        if harmonia['zajete_sloty'] >= 20:
+        if harmonia['zajete_sloty'] >= max_slots:
             break # Plecak pełny
             
         waga_bazowa = float(p['waga_kg'])
