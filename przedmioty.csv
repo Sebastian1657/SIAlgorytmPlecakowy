@@ -1,501 +1,1001 @@
 id,nazwa,kategoria,slot,waga_kg,stackowalny,pancerz,zdrowie,mana,obrazenia,charyzma
-1,Ciê¿ki Stalowy Napierœnik,Zbroja,Korpus,8.1,False,15,0,0,0,0
-2,Skórzane Buty Zdrowia,Zbroja,Buty,0.4,False,6,5,0,0,0
-3,Ciê¿ki Stalowy Napierœnik Many,Zbroja,Korpus,8.0,False,15,0,9,0,0
-4,Ciê¿kie Skórzane Rêkawice Many,Zbroja,Rekawice,0.3,False,4,0,7,0,0
-5,Lekkie Skórzane Buty Many,Zbroja,Buty,0.3,False,4,0,8,0,0
-6,Lekkie Skórzane Rêkawice,Zbroja,Rekawice,0.2,False,1,0,0,0,0
-7,Ciê¿ki Stalowy He³m,Zbroja,Glowa,2.5,False,9,0,0,0,0
-8,Lekki Skórzany Napierœnik Zdrowia,Zbroja,Korpus,1.8,False,8,10,0,0,0
-9,Lekki Stalowy Napierœnik Zdrowia,Zbroja,Korpus,6.6,False,11,12,0,0,0
-10,Lekkie Stalowe Rêkawice Charyzmy,Zbroja,Rekawice,1.3,False,3,0,0,0,11
-11,Ciê¿ki Skórzany He³m,Zbroja,Glowa,0.8,False,10,0,0,0,0
-12,Lekki Stalowy He³m Zdrowia,Zbroja,Glowa,1.8,False,5,10,0,0,0
-13,Ciê¿ki Stalowy He³m Many,Zbroja,Glowa,2.1,False,10,0,6,0,0
-14,Stalowe Rêkawice Charyzmy,Zbroja,Rekawice,1.4,False,6,0,0,0,12
-15,Lekki Stalowy Napierœnik,Zbroja,Korpus,7.0,False,12,0,0,0,0
-16,Skórzane Rêkawice Charyzmy,Zbroja,Rekawice,0.3,False,4,0,0,0,9
-17,Stalowe Nogawice Many,Zbroja,Nogi,4.9,False,10,0,5,0,0
-18,Ciê¿kie Stalowe Rêkawice Charyzmy,Zbroja,Rekawice,1.8,False,7,0,0,0,11
-19,Lekki Stalowy He³m Many,Zbroja,Glowa,1.5,False,7,0,11,0,0
-20,Ciê¿ki Stalowy He³m,Zbroja,Glowa,2.2,False,11,0,0,0,0
-21,Stalowe Nogawice Charyzmy,Zbroja,Nogi,5.0,False,10,0,0,0,9
-22,Stalowe Buty Many,Zbroja,Buty,1.6,False,7,0,5,0,0
-23,Skórzane Nogawice Charyzmy,Zbroja,Nogi,1.7,False,9,0,0,0,4
-24,Ciê¿kie Stalowe Rêkawice Charyzmy,Zbroja,Rekawice,1.7,False,7,0,0,0,11
-25,Ciê¿kie Stalowe Nogawice Many,Zbroja,Nogi,5.1,False,12,0,6,0,0
-26,Ciê¿ki Stalowy Napierœnik Many,Zbroja,Korpus,8.2,False,16,0,5,0,0
-27,Ciê¿ki Stalowy He³m,Zbroja,Glowa,2.4,False,9,0,0,0,0
-28,Skórzane Rêkawice,Zbroja,Rekawice,0.2,False,4,0,0,0,0
-29,Ciê¿kie Skórzane Buty Charyzmy,Zbroja,Buty,0.7,False,8,0,0,0,10
-30,Ciê¿ki Skórzany Napierœnik Many,Zbroja,Korpus,2.4,False,12,0,6,0,0
-31,Lekki Skórzany He³m,Zbroja,Glowa,0.2,False,5,0,0,0,0
-32,Lekkie Stalowe Nogawice Many,Zbroja,Nogi,4.5,False,7,0,4,0,0
-33,Stalowe Rêkawice Charyzmy,Zbroja,Rekawice,1.5,False,5,0,0,0,5
-34,Ciê¿ki Stalowy He³m Charyzmy,Zbroja,Glowa,2.3,False,9,0,0,0,12
-35,Ciê¿kie Skórzane Buty Zdrowia,Zbroja,Buty,0.7,False,6,10,0,0,0
-36,Ciê¿ki Skórzany He³m Zdrowia,Zbroja,Glowa,0.8,False,10,3,0,0,0
-37,Skórzany Napierœnik Zdrowia,Zbroja,Korpus,2.0,False,9,3,0,0,0
-38,Skórzany He³m Many,Zbroja,Glowa,0.5,False,8,0,7,0,0
-39,Ciê¿ki Skórzany He³m Charyzmy,Zbroja,Glowa,0.8,False,8,0,0,0,11
-40,Skórzane Rêkawice Charyzmy,Zbroja,Rekawice,0.2,False,3,0,0,0,5
-41,Lekkie Skórzane Buty Charyzmy,Zbroja,Buty,0.3,False,5,0,0,0,9
-42,Skórzane Rêkawice,Zbroja,Rekawice,0.3,False,3,0,0,0,0
-43,Lekki Stalowy He³m Zdrowia,Zbroja,Glowa,1.8,False,5,7,0,0,0
-44,Stalowe Buty Zdrowia,Zbroja,Buty,1.7,False,7,11,0,0,0
-45,Skórzane Buty Many,Zbroja,Buty,0.5,False,6,0,5,0,0
-46,Lekkie Skórzane Rêkawice Many,Zbroja,Rekawice,0.1,False,1,0,11,0,0
-47,Ciê¿kie Stalowe Rêkawice Charyzmy,Zbroja,Rekawice,1.6,False,6,0,0,0,8
-48,Lekkie Skórzane Nogawice,Zbroja,Nogi,1.3,False,5,0,0,0,0
-49,Lekkie Stalowe Nogawice Charyzmy,Zbroja,Nogi,4.8,False,8,0,0,0,7
-50,Lekki Skórzany He³m Zdrowia,Zbroja,Glowa,0.2,False,4,8,0,0,0
-51,Ciê¿ki Stalowy He³m Charyzmy,Zbroja,Glowa,2.3,False,10,0,0,0,5
-52,Ciê¿kie Skórzane Rêkawice Zdrowia,Zbroja,Rekawice,0.5,False,4,5,0,0,0
-53,Skórzane Nogawice Many,Zbroja,Nogi,1.6,False,7,0,11,0,0
-54,Ciê¿kie Skórzane Buty Charyzmy,Zbroja,Buty,0.7,False,8,0,0,0,6
-55,Lekkie Stalowe Buty Many,Zbroja,Buty,1.4,False,6,0,6,0,0
-56,Ciê¿kie Stalowe Nogawice Many,Zbroja,Nogi,5.5,False,10,0,8,0,0
-57,Stalowe Nogawice Charyzmy,Zbroja,Nogi,5.1,False,8,0,0,0,6
-58,Skórzane Rêkawice Charyzmy,Zbroja,Rekawice,0.3,False,3,0,0,0,11
-59,Lekki Stalowy He³m,Zbroja,Glowa,1.7,False,6,0,0,0,0
-60,Lekki Stalowy He³m Charyzmy,Zbroja,Glowa,1.7,False,5,0,0,0,4
-61,Stalowy He³m Many,Zbroja,Glowa,1.9,False,9,0,9,0,0
-62,Ciê¿kie Stalowe Nogawice Many,Zbroja,Nogi,5.4,False,13,0,5,0,0
-63,Ciê¿ki Skórzany Napierœnik Charyzmy,Zbroja,Korpus,2.3,False,13,0,0,0,8
-64,Stalowe Nogawice Charyzmy,Zbroja,Nogi,4.9,False,8,0,0,0,5
-65,Lekkie Skórzane Buty,Zbroja,Buty,0.1,False,4,0,0,0,0
-66,Ciê¿ki Stalowy He³m,Zbroja,Glowa,2.5,False,11,0,0,0,0
-67,Ciê¿kie Stalowe Nogawice Charyzmy,Zbroja,Nogi,5.6,False,10,0,0,0,5
-68,Lekkie Stalowe Nogawice Zdrowia,Zbroja,Nogi,4.7,False,8,12,0,0,0
-69,Skórzane Rêkawice Zdrowia,Zbroja,Rekawice,0.3,False,4,5,0,0,0
-70,Stalowy Napierœnik,Zbroja,Korpus,7.5,False,12,0,0,0,0
-71,Skórzane Buty Many,Zbroja,Buty,0.5,False,5,0,6,0,0
-72,Ciê¿kie Stalowe Nogawice Charyzmy,Zbroja,Nogi,5.1,False,12,0,0,0,7
-73,Ciê¿kie Stalowe Buty Many,Zbroja,Buty,1.8,False,7,0,11,0,0
-74,Stalowy He³m,Zbroja,Glowa,2.0,False,8,0,0,0,0
-75,Stalowe Rêkawice,Zbroja,Rekawice,1.5,False,5,0,0,0,0
-76,Stalowy He³m Charyzmy,Zbroja,Glowa,2.2,False,8,0,0,0,3
-77,Ciê¿kie Skórzane Buty,Zbroja,Buty,0.6,False,8,0,0,0,0
-78,Lekkie Stalowe Nogawice Many,Zbroja,Nogi,5.0,False,6,0,5,0,0
-79,Lekkie Skórzane Rêkawice,Zbroja,Rekawice,0.1,False,2,0,0,0,0
-80,Ciê¿ki Stalowy He³m Zdrowia,Zbroja,Glowa,2.5,False,11,3,0,0,0
-81,Lekki Stalowy He³m Charyzmy,Zbroja,Glowa,1.8,False,5,0,0,0,10
-82,Lekki Skórzany Napierœnik Zdrowia,Zbroja,Korpus,1.6,False,7,10,0,0,0
-83,Skórzany Napierœnik,Zbroja,Korpus,1.9,False,9,0,0,0,0
-84,Skórzane Buty Many,Zbroja,Buty,0.5,False,6,0,11,0,0
-85,Lekki Skórzany Napierœnik Zdrowia,Zbroja,Korpus,1.3,False,7,8,0,0,0
-86,Ciê¿kie Stalowe Buty Many,Zbroja,Buty,1.9,False,9,0,5,0,0
-87,Skórzane Nogawice Zdrowia,Zbroja,Nogi,1.7,False,9,3,0,0,0
-88,Lekkie Skórzane Nogawice Many,Zbroja,Nogi,1.3,False,6,0,4,0,0
-89,Lekkie Skórzane Buty,Zbroja,Buty,0.3,False,3,0,0,0,0
-90,Skórzane Nogawice Zdrowia,Zbroja,Nogi,1.7,False,9,4,0,0,0
-91,Ciê¿kie Skórzane Nogawice Zdrowia,Zbroja,Nogi,2.1,False,10,11,0,0,0
-92,Ciê¿ki Stalowy He³m Charyzmy,Zbroja,Glowa,2.1,False,9,0,0,0,7
-93,Skórzane Rêkawice Many,Zbroja,Rekawice,0.3,False,4,0,11,0,0
-94,Ciê¿ki Skórzany Napierœnik,Zbroja,Korpus,2.4,False,12,0,0,0,0
-95,Ciê¿ki Skórzany He³m Charyzmy,Zbroja,Glowa,0.6,False,9,0,0,0,6
-96,Lekkie Skórzane Buty Zdrowia,Zbroja,Buty,0.2,False,5,6,0,0,0
-97,Stalowy Napierœnik Many,Zbroja,Korpus,7.6,False,13,0,12,0,0
-98,Lekkie Skórzane Rêkawice,Zbroja,Rekawice,0.2,False,1,0,0,0,0
-99,Lekki Skórzany He³m,Zbroja,Glowa,0.3,False,5,0,0,0,0
-100,Ciê¿ki Skórzany Napierœnik,Zbroja,Korpus,2.4,False,13,0,0,0,0
-101,Ostry Drewniany Miecz Zdrowia,Bron,Bron,0.7,False,0,12,0,9,0
-102,Stalowy Miecz Many,Bron,Bron,1.2,False,0,0,9,13,0
-103,Têpy Drewniany Topór,Bron,Bron,0.9,False,0,0,0,7,0
-104,Elastyczny £uk,Bron,Bron,0.5,False,0,0,0,9,0
-105,Têpy Stalowy Topór Zdrowia,Bron,Bron,1.6,False,0,6,0,13,0
-106,Drewniany Topór,Bron,Bron,0.9,False,0,0,0,8,0
-107,Ostry Drewniany Miecz Many,Bron,Bron,0.7,False,0,0,12,9,0
-108,Ostry Stalowy Topór Many,Bron,Bron,1.4,False,0,0,12,18,0
-109,Elastyczny £uk,Bron,Bron,0.7,False,0,0,0,8,0
-110,Ostry Stalowy Miecz,Bron,Bron,1.3,False,0,0,0,12,0
-111,Drewniany Miecz Charyzmy,Bron,Bron,0.8,False,0,0,0,6,10
-112,Têpy Drewniany Miecz Charyzmy,Bron,Bron,0.6,False,0,0,0,6,9
-113,Ostry Drewniany Topór Charyzmy,Bron,Bron,0.9,False,0,0,0,10,10
-114,Elastyczny £uk Many,Bron,Bron,0.7,False,0,0,11,9,0
-115,Stalowy Miecz Zdrowia,Bron,Bron,1.3,False,0,11,0,13,0
-116,Têpy Drewniany Miecz Many,Bron,Bron,0.7,False,0,0,7,5,0
-117,Ostry Stalowy Topór,Bron,Bron,1.5,False,0,0,0,17,0
-118,Têpy Stalowy Miecz Many,Bron,Bron,1.3,False,0,0,12,10,0
-119,Elastyczny £uk,Bron,Bron,0.6,False,0,0,0,7,0
-120,Ostry Stalowy Topór Zdrowia,Bron,Bron,1.4,False,0,6,0,17,0
-121,Ostry Drewniany Miecz Zdrowia,Bron,Bron,0.8,False,0,12,0,8,0
-122,Elastyczny £uk Zdrowia,Bron,Bron,0.5,False,0,6,0,7,0
-123,£uk,Bron,Bron,0.6,False,0,0,0,9,0
-124,Ostry Drewniany Topór Charyzmy,Bron,Bron,0.9,False,0,0,0,11,12
-125,Drewniany Topór,Bron,Bron,0.7,False,0,0,0,9,0
-126,Ostry Stalowy Miecz Zdrowia,Bron,Bron,1.3,False,0,9,0,15,0
-127,£uk,Bron,Bron,0.5,False,0,0,0,9,0
-128,Ostry Stalowy Miecz Zdrowia,Bron,Bron,1.2,False,0,8,0,15,0
-129,Elastyczny £uk,Bron,Bron,0.7,False,0,0,0,9,0
-130,£uk Zdrowia,Bron,Bron,0.6,False,0,8,0,9,0
-131,Zu¿yty £uk Charyzmy,Bron,Bron,0.5,False,0,0,0,9,4
-132,Elastyczny £uk Zdrowia,Bron,Bron,0.7,False,0,9,0,7,0
-133,Têpy Drewniany Topór Many,Bron,Bron,0.7,False,0,0,8,5,0
-134,Elastyczny £uk,Bron,Bron,0.6,False,0,0,0,7,0
-135,Stalowy Topór,Bron,Bron,1.5,False,0,0,0,15,0
-136,Elastyczny £uk,Bron,Bron,0.6,False,0,0,0,7,0
-137,Elastyczny £uk Many,Bron,Bron,0.5,False,0,0,7,8,0
-138,Têpy Stalowy Topór Charyzmy,Bron,Bron,1.5,False,0,0,0,11,10
-139,Têpy Drewniany Topór Charyzmy,Bron,Bron,0.8,False,0,0,0,6,7
-140,Zu¿yty £uk Many,Bron,Bron,0.7,False,0,0,3,7,0
-141,Stalowy Topór Zdrowia,Bron,Bron,1.5,False,0,12,0,15,0
-142,Ostry Stalowy Topór Many,Bron,Bron,1.5,False,0,0,4,18,0
-143,Ostry Drewniany Miecz Zdrowia,Bron,Bron,0.6,False,0,11,0,7,0
-144,Drewniany Miecz,Bron,Bron,0.7,False,0,0,0,6,0
-145,Têpy Stalowy Miecz Many,Bron,Bron,1.2,False,0,0,3,10,0
-146,Stalowy Topór Many,Bron,Bron,1.4,False,0,0,8,16,0
-147,£uk Many,Bron,Bron,0.6,False,0,0,6,9,0
-148,Ostry Drewniany Miecz Zdrowia,Bron,Bron,0.7,False,0,10,0,9,0
-149,Têpy Drewniany Topór Zdrowia,Bron,Bron,0.9,False,0,5,0,5,0
-150,Zu¿yty £uk Charyzmy,Bron,Bron,0.7,False,0,0,0,8,3
-151,Stalowy Miecz Charyzmy,Bron,Bron,1.3,False,0,0,0,12,7
-152,Têpy Drewniany Topór Charyzmy,Bron,Bron,0.7,False,0,0,0,6,4
-153,£uk Many,Bron,Bron,0.5,False,0,0,4,9,0
-154,Stalowy Miecz Charyzmy,Bron,Bron,1.2,False,0,0,0,11,12
-155,Stalowy Miecz Zdrowia,Bron,Bron,1.3,False,0,6,0,12,0
-156,Zu¿yty £uk Zdrowia,Bron,Bron,0.7,False,0,4,0,9,0
-157,Têpy Stalowy Topór Many,Bron,Bron,1.5,False,0,0,5,13,0
-158,£uk Many,Bron,Bron,0.6,False,0,0,8,9,0
-159,Ostry Stalowy Topór Many,Bron,Bron,1.6,False,0,0,11,18,0
-160,Têpy Drewniany Miecz Many,Bron,Bron,0.6,False,0,0,10,7,0
-161,Têpy Drewniany Miecz Many,Bron,Bron,0.8,False,0,0,6,5,0
-162,Drewniany Topór Zdrowia,Bron,Bron,0.7,False,0,5,0,9,0
-163,Ostry Drewniany Miecz Zdrowia,Bron,Bron,0.8,False,0,4,0,9,0
-164,Stalowy Topór Many,Bron,Bron,1.5,False,0,0,4,16,0
-165,Têpy Stalowy Miecz,Bron,Bron,1.4,False,0,0,0,11,0
-166,£uk Zdrowia,Bron,Bron,0.6,False,0,9,0,7,0
-167,Ostry Stalowy Topór,Bron,Bron,1.4,False,0,0,0,18,0
-168,£uk Charyzmy,Bron,Bron,0.7,False,0,0,0,8,9
-169,Ostry Stalowy Topór Zdrowia,Bron,Bron,1.5,False,0,12,0,17,0
-170,£uk,Bron,Bron,0.6,False,0,0,0,7,0
-171,Têpy Stalowy Miecz Zdrowia,Bron,Bron,1.2,False,0,11,0,12,0
-172,Ostry Drewniany Miecz Many,Bron,Bron,0.8,False,0,0,9,7,0
-173,Ostry Stalowy Topór Zdrowia,Bron,Bron,1.4,False,0,4,0,19,0
-174,£uk Zdrowia,Bron,Bron,0.7,False,0,11,0,8,0
-175,Stalowy Topór,Bron,Bron,1.4,False,0,0,0,15,0
-176,£uk Charyzmy,Bron,Bron,0.5,False,0,0,0,9,10
-177,Têpy Drewniany Topór,Bron,Bron,0.7,False,0,0,0,6,0
-178,Ostry Drewniany Miecz Zdrowia,Bron,Bron,0.8,False,0,10,0,9,0
-179,Ostry Stalowy Topór Zdrowia,Bron,Bron,1.5,False,0,5,0,18,0
-180,Ostry Drewniany Miecz Zdrowia,Bron,Bron,0.7,False,0,12,0,9,0
-181,£uk Charyzmy,Bron,Bron,0.6,False,0,0,0,8,9
-182,Drewniany Miecz Zdrowia,Bron,Bron,0.7,False,0,8,0,6,0
-183,Ostry Drewniany Miecz Zdrowia,Bron,Bron,0.7,False,0,6,0,8,0
-184,Ostry Drewniany Topór,Bron,Bron,0.7,False,0,0,0,11,0
-185,£uk Many,Bron,Bron,0.7,False,0,0,10,9,0
-186,Ostry Stalowy Topór,Bron,Bron,1.6,False,0,0,0,19,0
-187,£uk Many,Bron,Bron,0.6,False,0,0,11,8,0
-188,Stalowy Miecz Zdrowia,Bron,Bron,1.3,False,0,10,0,11,0
-189,Ostry Drewniany Topór,Bron,Bron,0.8,False,0,0,0,12,0
-190,Têpy Drewniany Miecz Zdrowia,Bron,Bron,0.6,False,0,11,0,7,0
-191,Ostry Stalowy Miecz Zdrowia,Bron,Bron,1.3,False,0,11,0,14,0
-192,£uk Many,Bron,Bron,0.7,False,0,0,9,8,0
-193,Zu¿yty £uk Zdrowia,Bron,Bron,0.6,False,0,11,0,7,0
-194,Zu¿yty £uk Zdrowia,Bron,Bron,0.5,False,0,6,0,7,0
-195,Drewniany Topór Zdrowia,Bron,Bron,0.8,False,0,5,0,10,0
-196,Ostry Drewniany Topór,Bron,Bron,0.9,False,0,0,0,12,0
-197,Elastyczny £uk Zdrowia,Bron,Bron,0.5,False,0,4,0,9,0
-198,Stalowy Miecz,Bron,Bron,1.4,False,0,0,0,13,0
-199,Têpy Stalowy Miecz,Bron,Bron,1.2,False,0,0,0,11,0
-200,Zu¿yty £uk Many,Bron,Bron,0.6,False,0,0,8,8,0
-201,Têpy Stalowy Topór Charyzmy,Bron,Bron,1.5,False,0,0,0,13,9
-202,£uk Charyzmy,Bron,Bron,0.6,False,0,0,0,9,3
-203,Têpy Stalowy Topór Charyzmy,Bron,Bron,1.6,False,0,0,0,12,3
-204,£uk Charyzmy,Bron,Bron,0.5,False,0,0,0,7,7
-205,Têpy Stalowy Topór Many,Bron,Bron,1.4,False,0,0,3,13,0
-206,Stalowy Miecz Zdrowia,Bron,Bron,1.3,False,0,7,0,12,0
-207,£uk Many,Bron,Bron,0.5,False,0,0,8,7,0
-208,Têpy Drewniany Topór Charyzmy,Bron,Bron,0.7,False,0,0,0,6,12
-209,Zu¿yty £uk Zdrowia,Bron,Bron,0.5,False,0,9,0,9,0
-210,£uk Charyzmy,Bron,Bron,0.7,False,0,0,0,7,4
-211,Ostry Stalowy Topór Many,Bron,Bron,1.5,False,0,0,5,18,0
-212,Ostry Stalowy Topór Zdrowia,Bron,Bron,1.5,False,0,11,0,18,0
-213,Drewniany Topór Zdrowia,Bron,Bron,0.7,False,0,11,0,10,0
-214,Ostry Drewniany Miecz Charyzmy,Bron,Bron,0.8,False,0,0,0,8,12
-215,Têpy Drewniany Topór Many,Bron,Bron,0.9,False,0,0,7,5,0
-216,Drewniany Miecz,Bron,Bron,0.6,False,0,0,0,6,0
-217,Têpy Stalowy Topór Charyzmy,Bron,Bron,1.6,False,0,0,0,11,6
-218,Têpy Stalowy Miecz Zdrowia,Bron,Bron,1.4,False,0,7,0,10,0
-219,Têpy Drewniany Miecz Zdrowia,Bron,Bron,0.7,False,0,7,0,4,0
-220,Zu¿yty £uk Many,Bron,Bron,0.7,False,0,0,10,8,0
-221,Ostry Drewniany Topór Zdrowia,Bron,Bron,0.7,False,0,3,0,13,0
-222,£uk Zdrowia,Bron,Bron,0.5,False,0,12,0,8,0
-223,Zu¿yty £uk Zdrowia,Bron,Bron,0.5,False,0,7,0,9,0
-224,Ostry Drewniany Miecz,Bron,Bron,0.6,False,0,0,0,8,0
-225,Stalowy Topór Charyzmy,Bron,Bron,1.6,False,0,0,0,15,7
-226,Drewniany Topór Many,Bron,Bron,0.8,False,0,0,8,10,0
-227,Têpy Drewniany Topór Many,Bron,Bron,0.8,False,0,0,7,6,0
-228,Ostry Drewniany Topór Many,Bron,Bron,0.8,False,0,0,3,11,0
-229,Têpy Drewniany Miecz Many,Bron,Bron,0.7,False,0,0,6,5,0
-230,Drewniany Miecz Many,Bron,Bron,0.7,False,0,0,7,6,0
-231,Elastyczny £uk Many,Bron,Bron,0.7,False,0,0,10,8,0
-232,Têpy Stalowy Miecz,Bron,Bron,1.4,False,0,0,0,11,0
-233,Drewniany Topór Charyzmy,Bron,Bron,0.9,False,0,0,0,8,11
-234,Ostry Drewniany Miecz Charyzmy,Bron,Bron,0.6,False,0,0,0,10,12
-235,Ostry Stalowy Topór,Bron,Bron,1.6,False,0,0,0,19,0
-236,Têpy Stalowy Topór Many,Bron,Bron,1.4,False,0,0,12,13,0
-237,Drewniany Topór Charyzmy,Bron,Bron,0.8,False,0,0,0,9,10
-238,Têpy Drewniany Topór,Bron,Bron,0.7,False,0,0,0,7,0
-239,Têpy Drewniany Topór Charyzmy,Bron,Bron,0.8,False,0,0,0,7,8
-240,Stalowy Topór Many,Bron,Bron,1.5,False,0,0,5,14,0
-241,Ostry Drewniany Topór Zdrowia,Bron,Bron,0.7,False,0,3,0,10,0
-242,Zu¿yty £uk Zdrowia,Bron,Bron,0.7,False,0,3,0,7,0
-243,Ostry Stalowy Miecz Charyzmy,Bron,Bron,1.4,False,0,0,0,15,11
-244,Elastyczny £uk,Bron,Bron,0.6,False,0,0,0,7,0
-245,Stalowy Topór Charyzmy,Bron,Bron,1.6,False,0,0,0,16,7
-246,Ostry Drewniany Miecz,Bron,Bron,0.8,False,0,0,0,8,0
-247,Zu¿yty £uk Charyzmy,Bron,Bron,0.5,False,0,0,0,9,6
-248,Elastyczny £uk Zdrowia,Bron,Bron,0.6,False,0,6,0,8,0
-249,Elastyczny £uk,Bron,Bron,0.7,False,0,0,0,9,0
-250,Stalowy Topór Zdrowia,Bron,Bron,1.4,False,0,5,0,14,0
-251,Zu¿yty £uk Zdrowia,Bron,Bron,0.6,False,0,10,0,8,0
-252,£uk,Bron,Bron,0.5,False,0,0,0,8,0
-253,Ostry Stalowy Topór Charyzmy,Bron,Bron,1.6,False,0,0,0,18,4
-254,Têpy Drewniany Miecz Charyzmy,Bron,Bron,0.7,False,0,0,0,4,7
-255,Drewniany Miecz,Bron,Bron,0.7,False,0,0,0,6,0
-256,Zu¿yty £uk Many,Bron,Bron,0.5,False,0,0,3,9,0
-257,Drewniany Miecz Charyzmy,Bron,Bron,0.7,False,0,0,0,7,7
-258,Zu¿yty £uk Many,Bron,Bron,0.5,False,0,0,7,7,0
-259,£uk Charyzmy,Bron,Bron,0.5,False,0,0,0,8,9
-260,£uk,Bron,Bron,0.6,False,0,0,0,9,0
-261,Elastyczny £uk,Bron,Bron,0.6,False,0,0,0,7,0
-262,Drewniany Miecz Many,Bron,Bron,0.7,False,0,0,4,8,0
-263,Têpy Stalowy Miecz,Bron,Bron,1.2,False,0,0,0,9,0
-264,Stalowy Miecz Charyzmy,Bron,Bron,1.2,False,0,0,0,13,11
-265,Ostry Drewniany Topór Zdrowia,Bron,Bron,0.9,False,0,12,0,12,0
-266,Elastyczny £uk Many,Bron,Bron,0.5,False,0,0,4,8,0
-267,Stalowy Miecz Zdrowia,Bron,Bron,1.4,False,0,11,0,11,0
-268,Stalowy Topór Many,Bron,Bron,1.4,False,0,0,7,16,0
-269,Têpy Drewniany Miecz Many,Bron,Bron,0.6,False,0,0,12,6,0
-270,Ostry Stalowy Topór,Bron,Bron,1.5,False,0,0,0,18,0
-271,Têpy Stalowy Miecz Zdrowia,Bron,Bron,1.2,False,0,6,0,11,0
-272,Stalowy Miecz Charyzmy,Bron,Bron,1.3,False,0,0,0,13,9
-273,Ostry Stalowy Miecz Charyzmy,Bron,Bron,1.2,False,0,0,0,14,10
-274,Têpy Stalowy Miecz,Bron,Bron,1.3,False,0,0,0,12,0
-275,Zu¿yty £uk Charyzmy,Bron,Bron,0.5,False,0,0,0,8,8
-276,Têpy Drewniany Miecz,Bron,Bron,0.8,False,0,0,0,4,0
-277,Drewniany Topór Charyzmy,Bron,Bron,0.7,False,0,0,0,9,10
-278,Têpy Drewniany Topór Charyzmy,Bron,Bron,0.9,False,0,0,0,5,3
-279,£uk Many,Bron,Bron,0.6,False,0,0,10,9,0
-280,Elastyczny £uk Many,Bron,Bron,0.6,False,0,0,3,9,0
-281,Têpy Drewniany Topór,Bron,Bron,0.8,False,0,0,0,6,0
-282,£uk Many,Bron,Bron,0.5,False,0,0,5,8,0
-283,Stalowy Miecz Zdrowia,Bron,Bron,1.2,False,0,5,0,11,0
-284,Drewniany Miecz Many,Bron,Bron,0.8,False,0,0,9,7,0
-285,£uk,Bron,Bron,0.7,False,0,0,0,7,0
-286,Zu¿yty £uk,Bron,Bron,0.5,False,0,0,0,8,0
-287,Têpy Stalowy Miecz Charyzmy,Bron,Bron,1.3,False,0,0,0,10,12
-288,Zu¿yty £uk Charyzmy,Bron,Bron,0.7,False,0,0,0,7,9
-289,Zu¿yty £uk,Bron,Bron,0.5,False,0,0,0,7,0
-290,Drewniany Topór Charyzmy,Bron,Bron,0.9,False,0,0,0,9,3
-291,Stalowy Miecz,Bron,Bron,1.3,False,0,0,0,13,0
-292,Têpy Stalowy Topór Charyzmy,Bron,Bron,1.6,False,0,0,0,12,12
-293,Elastyczny £uk Many,Bron,Bron,0.5,False,0,0,6,9,0
-294,Zu¿yty £uk Zdrowia,Bron,Bron,0.7,False,0,10,0,7,0
-295,Zu¿yty £uk Charyzmy,Bron,Bron,0.5,False,0,0,0,8,8
-296,Drewniany Topór,Bron,Bron,0.8,False,0,0,0,8,0
-297,Têpy Drewniany Topór,Bron,Bron,0.7,False,0,0,0,6,0
-298,Drewniany Miecz Zdrowia,Bron,Bron,0.8,False,0,10,0,7,0
-299,Ostry Stalowy Miecz Zdrowia,Bron,Bron,1.3,False,0,3,0,15,0
-300,£uk Zdrowia,Bron,Bron,0.7,False,0,10,0,9,0
-301,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
-302,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,3,4
-303,Ma³a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.1,True,11,0,0,0,0
-304,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,10,0
-305,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,11,0
-306,Têpa Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
-307,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,5,0
-308,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,11,0
-309,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,8,0
-310,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,10
-311,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,11,0
-312,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,19
-313,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,10,0,0
-314,Du¿a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.3,True,0,20,0,0,0
-315,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,9,0
-316,Têpa Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,1,0
-317,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,11,0
-318,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,8,0
-319,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,2,0
-320,Du¿a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.3,True,0,18,0,0,0
-321,Du¿a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.3,True,0,19,0,0,0
-322,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,3,0,0
-323,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
-324,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,9,0,0,0
-325,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,1,4
-326,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,9
-327,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,9,0
-328,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,1,0
-329,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,20,0,0
-330,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,9,0,0,0,0
-331,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,5,0
-332,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,10
-333,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,1,0
-334,Ma³a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,0,0
-335,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,19,0
-336,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
-337,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,2,5
-338,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,3,0
-339,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,19,0
-340,Du¿a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.3,True,0,20,0,0,0
-341,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,20,0
-342,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,11,0,0,0
-343,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,20,0
-344,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,10,0
-345,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,0
-346,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,9,0,0
-347,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,10,0
-348,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,9,0,0
-349,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
-350,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,0,0
-351,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,2,4
-352,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,0
-353,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,9
-354,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,11,0
-355,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
-356,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,6
-357,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,10,0,0,0
-358,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,9,0,0
-359,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,0
-360,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,18,0,0
-361,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,2,0
-362,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,0
-363,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,5,0
-364,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,3,0,0
-365,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,4
-366,Ma³a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.1,True,11,0,0,0,0
-367,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,9,0
-368,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
-369,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,19
-370,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,20,0
-371,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,3,4
-372,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,2,0
-373,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,11
-374,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,5
-375,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,3,0
-376,Ma³a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,0,0
-377,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,1,6
-378,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,3,0
-379,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,9,0
-380,Ma³a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,0,0
-381,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,10,0,0,0
-382,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
-383,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,1,6
-384,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
-385,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,3,0
-386,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,0
-387,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,9,5
-388,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,1,0
-389,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
-390,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,10,0
-391,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,2,4
-392,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,2,0
-393,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,19,0,0
-394,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,4
-395,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,11,0,0,0,0
-396,Têpa Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,3,0
-397,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,9,0
-398,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
-399,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,9
-400,Du¿a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.3,True,0,17,0,0,0
-401,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,11,0
-402,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,0
-403,Ma³a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.1,True,9,0,0,0,0
-404,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,9,0
-405,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
-406,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,10,0,0
-407,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,11
-408,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,0
-409,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,2,0
-410,Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,6
-411,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,20,0,0
-412,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,11,0
-413,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,9,0
-414,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,20
-415,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,10,0,0,0,0
-416,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,20
-417,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,19,0
-418,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,19,0,0
-419,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,19
-420,Ma³a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.1,True,9,0,0,0,0
-421,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,17,0
-422,Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,6
-423,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,3,5
-424,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,19,0,0
-425,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,3,5
-426,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,10,0,0,0,0
-427,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,11,0,0,0
-428,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,4,0
-429,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,0,0
-430,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,3,0
-431,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,10,0,0
-432,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,19,0
-433,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,10,0
-434,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,4,0
-435,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,0
-436,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,11,0,0
-437,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,18,0
-438,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,17
-439,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,9
-440,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,3,5
-441,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,10,0
-442,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,5
-443,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,1,0
-444,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
-445,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,10,0
-446,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,5,0
-447,Ma³a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.1,True,11,0,0,0,0
-448,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,6,0
-449,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,9,0
-450,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,10
-451,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,19
-452,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
-453,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,0,0
-454,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,18,0
-455,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,9,0
-456,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,19,0
-457,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,0
-458,Têpa Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,3,0
-459,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
-460,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,1,5
-461,Ma³a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,0,0
-462,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,9,0,0,0
-463,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,9,0
-464,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
-465,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,9,0,0,0,0
-466,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,3
-467,Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.2,True,10,0,0,0,0
-468,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,6
-469,Ma³a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.1,True,10,0,0,0,0
-470,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,17,0,0
-471,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,0
-472,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,11,0,0
-473,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,10,0
-474,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,17
-475,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,11,0,0,0
-476,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,11,0
-477,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,11
-478,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,11,0,0
-479,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,11,0
-480,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,11,0,0,0
-481,Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,5
-482,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,0,0
-483,Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.2,True,9,0,0,0,0
-484,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,0
-485,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,0
-486,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,11,0
-487,Ma³a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.1,True,11,0,0,0,0
-488,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,2,6
-489,Du¿a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.3,True,0,18,0,0,0
-490,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,3
-491,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,11,0,0,0,0
-492,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,9,0
-493,Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,5
-494,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,11
-495,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
-496,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,4,0
-497,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,10,0,0,0,0
-498,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,4,0
-499,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,2,0
-500,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,21,0
+1,Lekki Stalowy Napierœnik Zdrowia,Zbroja,Korpus,7.4,False,11,9,0,0,0
+2,Ciê¿kie Skórzane Rêkawice Many,Zbroja,Rekawice,0.4,False,4,0,9,0,0
+3,Lekkie Skórzane Nogawice,Zbroja,Nogi,1.5,False,7,0,0,0,0
+4,Ciê¿ki Stalowy He³m Many,Zbroja,Glowa,2.3,False,10,0,10,0,0
+5,Ciê¿kie Stalowe Rêkawice Zdrowia,Zbroja,Rekawice,1.7,False,6,5,0,0,0
+6,Ciê¿ki Stalowy He³m Many,Zbroja,Glowa,2.4,False,10,0,7,0,0
+7,Ciê¿ki Skórzany He³m Charyzmy,Zbroja,Glowa,0.8,False,9,0,0,0,7
+8,Ciê¿ki Stalowy He³m Many,Zbroja,Glowa,2.3,False,11,0,9,0,0
+9,Lekkie Stalowe Buty Charyzmy,Zbroja,Buty,1.4,False,6,0,0,0,8
+10,Stalowy Napierœnik Charyzmy,Zbroja,Korpus,7.3,False,13,0,0,0,7
+11,Ciê¿kie Skórzane Nogawice,Zbroja,Nogi,2.0,False,10,0,0,0,0
+12,Ciê¿ki Stalowy He³m Many,Zbroja,Glowa,2.3,False,10,0,12,0,0
+13,Skórzany He³m Many,Zbroja,Glowa,0.4,False,8,0,5,0,0
+14,Lekkie Skórzane Buty Zdrowia,Zbroja,Buty,0.2,False,3,8,0,0,0
+15,Skórzany Napierœnik Zdrowia,Zbroja,Korpus,2.2,False,9,7,0,0,0
+16,Ciê¿kie Skórzane Rêkawice Many,Zbroja,Rekawice,0.4,False,5,0,9,0,0
+17,Ciê¿ki Skórzany Napierœnik,Zbroja,Korpus,2.7,False,11,0,0,0,0
+18,Stalowe Buty,Zbroja,Buty,1.8,False,7,0,0,0,0
+19,Ciê¿kie Stalowe Nogawice Many,Zbroja,Nogi,5.1,False,12,0,8,0,0
+20,Lekki Skórzany He³m Many,Zbroja,Glowa,0.3,False,4,0,4,0,0
+21,Lekki Stalowy He³m Charyzmy,Zbroja,Glowa,1.6,False,6,0,0,0,11
+22,Skórzany He³m Zdrowia,Zbroja,Glowa,0.4,False,7,12,0,0,0
+23,Ciê¿ki Stalowy Napierœnik Zdrowia,Zbroja,Korpus,7.5,False,15,9,0,0,0
+24,Stalowy He³m,Zbroja,Glowa,2.2,False,9,0,0,0,0
+25,Lekki Skórzany He³m,Zbroja,Glowa,0.2,False,6,0,0,0,0
+26,Skórzane Buty Charyzmy,Zbroja,Buty,0.4,False,6,0,0,0,3
+27,Ciê¿ki Stalowy Napierœnik,Zbroja,Korpus,8.0,False,15,0,0,0,0
+28,Stalowe Nogawice,Zbroja,Nogi,5.2,False,9,0,0,0,0
+29,Ciê¿kie Stalowe Buty Charyzmy,Zbroja,Buty,2.0,False,9,0,0,0,4
+30,Stalowe Nogawice Zdrowia,Zbroja,Nogi,4.8,False,8,5,0,0,0
+31,Lekki Stalowy He³m Many,Zbroja,Glowa,2.0,False,7,0,7,0,0
+32,Ciê¿kie Skórzane Rêkawice,Zbroja,Rekawice,0.3,False,5,0,0,0,0
+33,Lekki Skórzany He³m Zdrowia,Zbroja,Glowa,0.3,False,4,12,0,0,0
+34,Skórzane Nogawice Many,Zbroja,Nogi,1.6,False,7,0,9,0,0
+35,Ciê¿kie Skórzane Rêkawice Charyzmy,Zbroja,Rekawice,0.5,False,4,0,0,0,5
+36,Ciê¿kie Stalowe Nogawice Zdrowia,Zbroja,Nogi,5.0,False,12,8,0,0,0
+37,Ciê¿kie Skórzane Buty Zdrowia,Zbroja,Buty,0.8,False,8,8,0,0,0
+38,Ciê¿ki Stalowy Napierœnik Many,Zbroja,Korpus,7.8,False,15,0,6,0,0
+39,Lekkie Skórzane Rêkawice,Zbroja,Rekawice,0.1,False,2,0,0,0,0
+40,Stalowe Rêkawice Many,Zbroja,Rekawice,1.4,False,5,0,7,0,0
+41,Lekki Stalowy He³m Charyzmy,Zbroja,Glowa,1.7,False,6,0,0,0,3
+42,Stalowe Buty Zdrowia,Zbroja,Buty,1.8,False,7,8,0,0,0
+43,Ciê¿kie Stalowe Buty Many,Zbroja,Buty,1.8,False,7,0,3,0,0
+44,Lekkie Stalowe Nogawice,Zbroja,Nogi,4.8,False,6,0,0,0,0
+45,Skórzane Rêkawice Many,Zbroja,Rekawice,0.3,False,4,0,12,0,0
+46,Lekki Skórzany Napierœnik Charyzmy,Zbroja,Korpus,1.9,False,9,0,0,0,5
+47,Ciê¿ki Stalowy Napierœnik Charyzmy,Zbroja,Korpus,8.2,False,14,0,0,0,7
+48,Skórzane Nogawice Charyzmy,Zbroja,Nogi,1.5,False,9,0,0,0,10
+49,Lekki Skórzany He³m Charyzmy,Zbroja,Glowa,0.1,False,6,0,0,0,8
+50,Ciê¿ki Stalowy Napierœnik Many,Zbroja,Korpus,7.6,False,15,0,5,0,0
+51,Lekkie Skórzane Buty,Zbroja,Buty,0.2,False,4,0,0,0,0
+52,Ciê¿kie Skórzane Rêkawice Zdrowia,Zbroja,Rekawice,0.4,False,4,4,0,0,0
+53,Ciê¿kie Stalowe Buty Charyzmy,Zbroja,Buty,1.8,False,9,0,0,0,12
+54,Lekki Stalowy Napierœnik Charyzmy,Zbroja,Korpus,7.1,False,11,0,0,0,5
+55,Skórzane Buty Many,Zbroja,Buty,0.4,False,4,0,12,0,0
+56,Lekkie Skórzane Buty Many,Zbroja,Buty,0.2,False,5,0,3,0,0
+57,Lekkie Skórzane Buty Many,Zbroja,Buty,0.2,False,3,0,3,0,0
+58,Ciê¿kie Stalowe Buty Charyzmy,Zbroja,Buty,2.1,False,9,0,0,0,3
+59,Skórzane Buty Charyzmy,Zbroja,Buty,0.5,False,4,0,0,0,10
+60,Ciê¿ki Stalowy He³m,Zbroja,Glowa,2.4,False,9,0,0,0,0
+61,Ciê¿ki Stalowy He³m Many,Zbroja,Glowa,2.3,False,10,0,8,0,0
+62,Stalowe Rêkawice Many,Zbroja,Rekawice,1.6,False,5,0,3,0,0
+63,Lekkie Stalowe Rêkawice,Zbroja,Rekawice,1.4,False,4,0,0,0,0
+64,Ciê¿kie Stalowe Nogawice Many,Zbroja,Nogi,5.4,False,11,0,7,0,0
+65,Ciê¿ki Stalowy Napierœnik,Zbroja,Korpus,7.8,False,15,0,0,0,0
+66,Stalowe Rêkawice,Zbroja,Rekawice,1.5,False,4,0,0,0,0
+67,Skórzane Rêkawice Zdrowia,Zbroja,Rekawice,0.3,False,4,8,0,0,0
+68,Lekkie Stalowe Rêkawice Charyzmy,Zbroja,Rekawice,1.3,False,4,0,0,0,8
+69,Ciê¿ki Stalowy He³m,Zbroja,Glowa,2.0,False,11,0,0,0,0
+70,Ciê¿kie Stalowe Buty Zdrowia,Zbroja,Buty,1.8,False,8,11,0,0,0
+71,Skórzane Nogawice Zdrowia,Zbroja,Nogi,1.7,False,9,6,0,0,0
+72,Skórzane Buty Charyzmy,Zbroja,Buty,0.4,False,4,0,0,0,10
+73,Lekkie Stalowe Buty Zdrowia,Zbroja,Buty,1.6,False,4,4,0,0,0
+74,Ciê¿kie Stalowe Rêkawice Charyzmy,Zbroja,Rekawice,1.5,False,7,0,0,0,5
+75,Lekkie Stalowe Buty Many,Zbroja,Buty,1.2,False,4,0,5,0,0
+76,Lekkie Stalowe Nogawice Many,Zbroja,Nogi,4.9,False,8,0,3,0,0
+77,Lekkie Stalowe Buty Many,Zbroja,Buty,1.4,False,4,0,3,0,0
+78,Lekkie Stalowe Buty Charyzmy,Zbroja,Buty,1.5,False,5,0,0,0,9
+79,Lekkie Stalowe Buty Zdrowia,Zbroja,Buty,1.2,False,6,11,0,0,0
+80,Stalowe Buty,Zbroja,Buty,1.7,False,6,0,0,0,0
+81,Stalowe Buty Charyzmy,Zbroja,Buty,1.5,False,7,0,0,0,5
+82,Lekkie Skórzane Nogawice,Zbroja,Nogi,1.5,False,5,0,0,0,0
+83,Lekkie Stalowe Buty,Zbroja,Buty,1.5,False,4,0,0,0,0
+84,Stalowe Buty,Zbroja,Buty,1.8,False,6,0,0,0,0
+85,Stalowy He³m,Zbroja,Glowa,1.9,False,9,0,0,0,0
+86,Ciê¿kie Skórzane Nogawice Charyzmy,Zbroja,Nogi,1.9,False,10,0,0,0,12
+87,Ciê¿ki Stalowy He³m,Zbroja,Glowa,2.0,False,10,0,0,0,0
+88,Lekkie Skórzane Buty,Zbroja,Buty,0.2,False,3,0,0,0,0
+89,Lekkie Skórzane Rêkawice,Zbroja,Rekawice,0.2,False,3,0,0,0,0
+90,Ciê¿kie Stalowe Buty,Zbroja,Buty,2.1,False,9,0,0,0,0
+91,Ciê¿kie Skórzane Buty Charyzmy,Zbroja,Buty,0.7,False,8,0,0,0,12
+92,Ciê¿kie Skórzane Buty Many,Zbroja,Buty,0.7,False,8,0,6,0,0
+93,Skórzane Nogawice Many,Zbroja,Nogi,1.6,False,7,0,12,0,0
+94,Ciê¿kie Stalowe Nogawice Charyzmy,Zbroja,Nogi,5.4,False,12,0,0,0,9
+95,Skórzane Buty Charyzmy,Zbroja,Buty,0.4,False,4,0,0,0,8
+96,Stalowy He³m Charyzmy,Zbroja,Glowa,2.1,False,9,0,0,0,5
+97,Stalowy Napierœnik Charyzmy,Zbroja,Korpus,7.7,False,12,0,0,0,7
+98,Lekkie Stalowe Buty,Zbroja,Buty,1.3,False,5,0,0,0,0
+99,Ciê¿kie Stalowe Buty Charyzmy,Zbroja,Buty,1.8,False,9,0,0,0,4
+100,Lekkie Stalowe Rêkawice Zdrowia,Zbroja,Rekawice,1.5,False,3,7,0,0,0
+101,Ciê¿ki Stalowy Napierœnik Many,Zbroja,Korpus,8.3,False,15,0,4,0,0
+102,Skórzany He³m Many,Zbroja,Glowa,0.4,False,7,0,5,0,0
+103,Ciê¿kie Stalowe Nogawice Many,Zbroja,Nogi,5.5,False,12,0,10,0,0
+104,Skórzany Napierœnik Charyzmy,Zbroja,Korpus,1.8,False,9,0,0,0,9
+105,Stalowe Rêkawice,Zbroja,Rekawice,1.6,False,6,0,0,0,0
+106,Ciê¿ki Stalowy He³m,Zbroja,Glowa,2.2,False,9,0,0,0,0
+107,Stalowe Buty Charyzmy,Zbroja,Buty,1.7,False,5,0,0,0,7
+108,Ciê¿ki Skórzany He³m Many,Zbroja,Glowa,0.8,False,10,0,12,0,0
+109,Lekki Skórzany He³m Many,Zbroja,Glowa,0.2,False,6,0,8,0,0
+110,Lekki Skórzany He³m Charyzmy,Zbroja,Glowa,0.3,False,4,0,0,0,6
+111,Lekki Stalowy He³m Zdrowia,Zbroja,Glowa,1.9,False,5,6,0,0,0
+112,Skórzany He³m,Zbroja,Glowa,0.5,False,6,0,0,0,0
+113,Lekkie Stalowe Buty Zdrowia,Zbroja,Buty,1.2,False,5,4,0,0,0
+114,Ciê¿ki Skórzany Napierœnik Charyzmy,Zbroja,Korpus,2.6,False,12,0,0,0,10
+115,Stalowy He³m Many,Zbroja,Glowa,1.8,False,9,0,4,0,0
+116,Lekkie Stalowe Nogawice Zdrowia,Zbroja,Nogi,5.0,False,8,5,0,0,0
+117,Ciê¿ki Skórzany Napierœnik Charyzmy,Zbroja,Korpus,2.3,False,12,0,0,0,5
+118,Lekkie Stalowe Buty Zdrowia,Zbroja,Buty,1.5,False,5,11,0,0,0
+119,Ciê¿kie Stalowe Buty Charyzmy,Zbroja,Buty,1.8,False,8,0,0,0,11
+120,Skórzany Napierœnik Many,Zbroja,Korpus,2.0,False,9,0,10,0,0
+121,Stalowe Rêkawice Charyzmy,Zbroja,Rekawice,1.6,False,4,0,0,0,8
+122,Ciê¿kie Skórzane Rêkawice Many,Zbroja,Rekawice,0.4,False,6,0,10,0,0
+123,Ciê¿ki Stalowy He³m Zdrowia,Zbroja,Glowa,2.2,False,11,10,0,0,0
+124,Lekki Stalowy He³m,Zbroja,Glowa,1.7,False,7,0,0,0,0
+125,Ciê¿ki Skórzany Napierœnik,Zbroja,Korpus,2.6,False,11,0,0,0,0
+126,Lekkie Skórzane Buty Zdrowia,Zbroja,Buty,0.1,False,3,6,0,0,0
+127,Skórzane Buty Many,Zbroja,Buty,0.4,False,6,0,11,0,0
+128,Stalowe Buty Zdrowia,Zbroja,Buty,1.8,False,5,7,0,0,0
+129,Stalowy Napierœnik Zdrowia,Zbroja,Korpus,7.1,False,12,6,0,0,0
+130,Ciê¿kie Stalowe Buty Many,Zbroja,Buty,1.7,False,8,0,5,0,0
+131,Lekkie Skórzane Buty Zdrowia,Zbroja,Buty,0.3,False,4,6,0,0,0
+132,Stalowe Rêkawice,Zbroja,Rekawice,1.5,False,6,0,0,0,0
+133,Ciê¿kie Skórzane Buty Charyzmy,Zbroja,Buty,0.8,False,8,0,0,0,5
+134,Ciê¿ki Stalowy He³m Charyzmy,Zbroja,Glowa,2.1,False,10,0,0,0,6
+135,Lekkie Skórzane Rêkawice,Zbroja,Rekawice,0.2,False,1,0,0,0,0
+136,Skórzany Napierœnik Many,Zbroja,Korpus,2.0,False,10,0,7,0,0
+137,Skórzane Buty,Zbroja,Buty,0.5,False,6,0,0,0,0
+138,Ciê¿kie Skórzane Nogawice,Zbroja,Nogi,2.1,False,10,0,0,0,0
+139,Stalowe Buty Many,Zbroja,Buty,1.8,False,6,0,4,0,0
+140,Ciê¿kie Skórzane Nogawice,Zbroja,Nogi,2.0,False,9,0,0,0,0
+141,Lekki Skórzany He³m Many,Zbroja,Glowa,0.2,False,6,0,4,0,0
+142,Lekkie Skórzane Buty,Zbroja,Buty,0.2,False,5,0,0,0,0
+143,Ciê¿kie Stalowe Rêkawice,Zbroja,Rekawice,1.8,False,5,0,0,0,0
+144,Lekki Stalowy Napierœnik,Zbroja,Korpus,7.4,False,11,0,0,0,0
+145,Lekkie Stalowe Nogawice Many,Zbroja,Nogi,4.5,False,6,0,11,0,0
+146,Ciê¿kie Skórzane Rêkawice Zdrowia,Zbroja,Rekawice,0.5,False,5,7,0,0,0
+147,Ciê¿kie Stalowe Buty,Zbroja,Buty,2.0,False,9,0,0,0,0
+148,Ciê¿kie Stalowe Rêkawice Zdrowia,Zbroja,Rekawice,1.5,False,5,11,0,0,0
+149,Ciê¿kie Skórzane Buty Charyzmy,Zbroja,Buty,0.7,False,6,0,0,0,5
+150,Ciê¿kie Stalowe Buty,Zbroja,Buty,1.8,False,7,0,0,0,0
+151,Lekkie Skórzane Rêkawice,Zbroja,Rekawice,0.1,False,1,0,0,0,0
+152,Skórzane Rêkawice Charyzmy,Zbroja,Rekawice,0.3,False,3,0,0,0,11
+153,Ciê¿kie Skórzane Buty Charyzmy,Zbroja,Buty,0.7,False,8,0,0,0,9
+154,Stalowe Rêkawice Many,Zbroja,Rekawice,1.4,False,4,0,12,0,0
+155,Ciê¿ki Stalowy He³m Many,Zbroja,Glowa,2.0,False,11,0,12,0,0
+156,Lekkie Stalowe Rêkawice,Zbroja,Rekawice,1.4,False,4,0,0,0,0
+157,Lekkie Skórzane Nogawice Zdrowia,Zbroja,Nogi,1.2,False,7,4,0,0,0
+158,Lekki Skórzany Napierœnik Many,Zbroja,Korpus,1.5,False,9,0,6,0,0
+159,Lekkie Stalowe Buty Charyzmy,Zbroja,Buty,1.4,False,4,0,0,0,12
+160,Lekki Stalowy He³m Zdrowia,Zbroja,Glowa,1.5,False,6,7,0,0,0
+161,Lekki Skórzany Napierœnik Charyzmy,Zbroja,Korpus,1.6,False,9,0,0,0,4
+162,Skórzane Nogawice Charyzmy,Zbroja,Nogi,1.5,False,7,0,0,0,11
+163,Lekkie Skórzane Buty,Zbroja,Buty,0.3,False,5,0,0,0,0
+164,Stalowe Buty Zdrowia,Zbroja,Buty,1.8,False,7,12,0,0,0
+165,Lekkie Skórzane Rêkawice Many,Zbroja,Rekawice,0.1,False,2,0,5,0,0
+166,Skórzane Rêkawice,Zbroja,Rekawice,0.2,False,4,0,0,0,0
+167,Skórzane Nogawice Zdrowia,Zbroja,Nogi,1.5,False,8,9,0,0,0
+168,Lekki Stalowy He³m,Zbroja,Glowa,1.8,False,6,0,0,0,0
+169,Ciê¿kie Stalowe Nogawice Zdrowia,Zbroja,Nogi,5.3,False,10,12,0,0,0
+170,Ciê¿ki Skórzany He³m Charyzmy,Zbroja,Glowa,0.8,False,10,0,0,0,11
+171,Ciê¿kie Skórzane Rêkawice Zdrowia,Zbroja,Rekawice,0.5,False,4,6,0,0,0
+172,Ciê¿kie Skórzane Nogawice Charyzmy,Zbroja,Nogi,1.8,False,12,0,0,0,8
+173,Ciê¿kie Skórzane Nogawice Charyzmy,Zbroja,Nogi,2.1,False,12,0,0,0,11
+174,Stalowe Buty Many,Zbroja,Buty,1.5,False,6,0,7,0,0
+175,Skórzany He³m,Zbroja,Glowa,0.6,False,6,0,0,0,0
+176,Ciê¿ki Skórzany He³m Zdrowia,Zbroja,Glowa,0.9,False,10,4,0,0,0
+177,Stalowe Nogawice Zdrowia,Zbroja,Nogi,5.1,False,10,7,0,0,0
+178,Lekki Stalowy Napierœnik Zdrowia,Zbroja,Korpus,7.5,False,11,10,0,0,0
+179,Ciê¿kie Stalowe Rêkawice Zdrowia,Zbroja,Rekawice,1.6,False,8,7,0,0,0
+180,Lekki Stalowy He³m Charyzmy,Zbroja,Glowa,1.7,False,6,0,0,0,3
+181,Skórzane Nogawice Charyzmy,Zbroja,Nogi,1.5,False,7,0,0,0,8
+182,Skórzany Napierœnik Zdrowia,Zbroja,Korpus,2.2,False,9,9,0,0,0
+183,Ciê¿kie Skórzane Rêkawice,Zbroja,Rekawice,0.5,False,4,0,0,0,0
+184,Ciê¿ki Skórzany Napierœnik Zdrowia,Zbroja,Korpus,2.4,False,12,8,0,0,0
+185,Skórzane Buty Charyzmy,Zbroja,Buty,0.5,False,5,0,0,0,8
+186,Lekki Skórzany Napierœnik Charyzmy,Zbroja,Korpus,1.8,False,9,0,0,0,8
+187,Lekki Stalowy He³m Many,Zbroja,Glowa,1.9,False,7,0,9,0,0
+188,Lekkie Skórzane Buty Zdrowia,Zbroja,Buty,0.2,False,3,5,0,0,0
+189,Lekkie Stalowe Nogawice Zdrowia,Zbroja,Nogi,4.8,False,8,4,0,0,0
+190,Ciê¿kie Skórzane Rêkawice,Zbroja,Rekawice,0.4,False,5,0,0,0,0
+191,Ciê¿ki Stalowy He³m Many,Zbroja,Glowa,2.3,False,11,0,12,0,0
+192,Ciê¿kie Skórzane Rêkawice Many,Zbroja,Rekawice,0.5,False,5,0,12,0,0
+193,Ciê¿kie Stalowe Buty Many,Zbroja,Buty,2.0,False,9,0,7,0,0
+194,Skórzane Rêkawice Zdrowia,Zbroja,Rekawice,0.2,False,4,10,0,0,0
+195,Stalowe Rêkawice Charyzmy,Zbroja,Rekawice,1.5,False,4,0,0,0,3
+196,Lekkie Skórzane Rêkawice Charyzmy,Zbroja,Rekawice,0.1,False,2,0,0,0,7
+197,Ciê¿ki Skórzany Napierœnik Charyzmy,Zbroja,Korpus,2.5,False,11,0,0,0,8
+198,Ciê¿ki Skórzany He³m Zdrowia,Zbroja,Glowa,0.7,False,9,9,0,0,0
+199,Lekkie Skórzane Rêkawice Charyzmy,Zbroja,Rekawice,0.1,False,2,0,0,0,9
+200,Lekkie Skórzane Nogawice,Zbroja,Nogi,1.3,False,6,0,0,0,0
+201,Ostry Drewniany Topór,Bron,Bron,0.7,False,0,0,0,11,0
+202,Elastyczny £uk,Bron,Bron,0.7,False,0,0,0,9,0
+203,Ostry Drewniany Topór,Bron,Bron,0.8,False,0,0,0,12,0
+204,Stalowy Miecz Zdrowia,Bron,Bron,1.2,False,0,7,0,12,0
+205,£uk Charyzmy,Bron,Bron,0.7,False,0,0,0,9,10
+206,£uk Charyzmy,Bron,Bron,0.6,False,0,0,0,9,10
+207,Têpy Stalowy Topór Charyzmy,Bron,Bron,1.5,False,0,0,0,12,10
+208,Ostry Drewniany Miecz Zdrowia,Bron,Bron,0.8,False,0,9,0,8,0
+209,Têpy Stalowy Topór Many,Bron,Bron,1.4,False,0,0,6,11,0
+210,Ostry Stalowy Miecz Zdrowia,Bron,Bron,1.4,False,0,6,0,12,0
+211,Têpy Drewniany Topór Zdrowia,Bron,Bron,0.8,False,0,4,0,7,0
+212,Zu¿yty £uk Charyzmy,Bron,Bron,0.6,False,0,0,0,7,4
+213,Stalowy Topór,Bron,Bron,1.5,False,0,0,0,16,0
+214,Elastyczny £uk Many,Bron,Bron,0.5,False,0,0,11,7,0
+215,Ostry Drewniany Topór Charyzmy,Bron,Bron,0.7,False,0,0,0,13,10
+216,Têpy Drewniany Miecz Charyzmy,Bron,Bron,0.7,False,0,0,0,4,3
+217,Ostry Stalowy Miecz Charyzmy,Bron,Bron,1.4,False,0,0,0,14,5
+218,Elastyczny £uk Charyzmy,Bron,Bron,0.5,False,0,0,0,8,8
+219,Ostry Stalowy Topór Zdrowia,Bron,Bron,1.4,False,0,4,0,18,0
+220,£uk,Bron,Bron,0.7,False,0,0,0,7,0
+221,Stalowy Miecz,Bron,Bron,1.4,False,0,0,0,11,0
+222,£uk Many,Bron,Bron,0.5,False,0,0,11,9,0
+223,Têpy Stalowy Miecz Charyzmy,Bron,Bron,1.3,False,0,0,0,11,8
+224,Têpy Stalowy Miecz Charyzmy,Bron,Bron,1.3,False,0,0,0,10,6
+225,Ostry Drewniany Miecz Zdrowia,Bron,Bron,0.6,False,0,8,0,10,0
+226,Ostry Drewniany Topór Zdrowia,Bron,Bron,0.7,False,0,6,0,13,0
+227,Têpy Drewniany Miecz,Bron,Bron,0.6,False,0,0,0,6,0
+228,Zu¿yty £uk Zdrowia,Bron,Bron,0.5,False,0,4,0,9,0
+229,Zu¿yty £uk Zdrowia,Bron,Bron,0.6,False,0,11,0,7,0
+230,Drewniany Miecz Charyzmy,Bron,Bron,0.6,False,0,0,0,7,8
+231,£uk Zdrowia,Bron,Bron,0.5,False,0,11,0,9,0
+232,Stalowy Miecz Many,Bron,Bron,1.4,False,0,0,10,11,0
+233,Stalowy Miecz,Bron,Bron,1.2,False,0,0,0,11,0
+234,Têpy Stalowy Topór Zdrowia,Bron,Bron,1.4,False,0,3,0,13,0
+235,Ostry Drewniany Miecz Many,Bron,Bron,0.8,False,0,0,5,7,0
+236,Têpy Drewniany Topór,Bron,Bron,0.7,False,0,0,0,5,0
+237,Drewniany Topór Zdrowia,Bron,Bron,0.9,False,0,12,0,9,0
+238,£uk Many,Bron,Bron,0.5,False,0,0,6,8,0
+239,Drewniany Miecz Charyzmy,Bron,Bron,0.7,False,0,0,0,7,9
+240,Stalowy Topór Zdrowia,Bron,Bron,1.5,False,0,12,0,16,0
+241,Têpy Stalowy Topór Many,Bron,Bron,1.6,False,0,0,6,13,0
+242,Zu¿yty £uk Many,Bron,Bron,0.7,False,0,0,8,9,0
+243,Elastyczny £uk Charyzmy,Bron,Bron,0.5,False,0,0,0,7,4
+244,Têpy Stalowy Topór Charyzmy,Bron,Bron,1.4,False,0,0,0,12,8
+245,Stalowy Miecz Many,Bron,Bron,1.4,False,0,0,5,13,0
+246,Ostry Stalowy Miecz Zdrowia,Bron,Bron,1.2,False,0,6,0,13,0
+247,Stalowy Topór Charyzmy,Bron,Bron,1.4,False,0,0,0,15,12
+248,Têpy Stalowy Miecz Many,Bron,Bron,1.4,False,0,0,7,12,0
+249,Ostry Drewniany Topór,Bron,Bron,0.8,False,0,0,0,10,0
+250,Têpy Drewniany Miecz Zdrowia,Bron,Bron,0.6,False,0,11,0,4,0
+251,Stalowy Topór Charyzmy,Bron,Bron,1.4,False,0,0,0,14,10
+252,Drewniany Miecz Charyzmy,Bron,Bron,0.8,False,0,0,0,8,4
+253,Têpy Stalowy Topór Zdrowia,Bron,Bron,1.4,False,0,8,0,11,0
+254,Zu¿yty £uk,Bron,Bron,0.6,False,0,0,0,9,0
+255,Ostry Stalowy Topór Zdrowia,Bron,Bron,1.6,False,0,7,0,18,0
+256,Ostry Stalowy Topór Zdrowia,Bron,Bron,1.6,False,0,8,0,17,0
+257,£uk Charyzmy,Bron,Bron,0.5,False,0,0,0,9,7
+258,Elastyczny £uk,Bron,Bron,0.6,False,0,0,0,9,0
+259,Ostry Stalowy Topór Many,Bron,Bron,1.5,False,0,0,11,17,0
+260,Ostry Stalowy Topór Charyzmy,Bron,Bron,1.6,False,0,0,0,16,9
+261,Drewniany Topór Many,Bron,Bron,0.9,False,0,0,6,10,0
+262,Elastyczny £uk Zdrowia,Bron,Bron,0.7,False,0,6,0,7,0
+263,Zu¿yty £uk Charyzmy,Bron,Bron,0.5,False,0,0,0,7,4
+264,Drewniany Miecz Many,Bron,Bron,0.7,False,0,0,11,8,0
+265,Stalowy Topór,Bron,Bron,1.5,False,0,0,0,15,0
+266,Ostry Drewniany Miecz Many,Bron,Bron,0.7,False,0,0,7,10,0
+267,Têpy Stalowy Topór Many,Bron,Bron,1.4,False,0,0,7,13,0
+268,Stalowy Topór Charyzmy,Bron,Bron,1.4,False,0,0,0,16,9
+269,Ostry Stalowy Topór Many,Bron,Bron,1.4,False,0,0,3,19,0
+270,Stalowy Miecz Charyzmy,Bron,Bron,1.2,False,0,0,0,11,3
+271,Ostry Drewniany Miecz Many,Bron,Bron,0.7,False,0,0,7,9,0
+272,Zu¿yty £uk Many,Bron,Bron,0.6,False,0,0,6,7,0
+273,Têpy Stalowy Miecz Charyzmy,Bron,Bron,1.3,False,0,0,0,9,5
+274,£uk Many,Bron,Bron,0.7,False,0,0,11,8,0
+275,Drewniany Miecz,Bron,Bron,0.7,False,0,0,0,6,0
+276,Elastyczny £uk Charyzmy,Bron,Bron,0.7,False,0,0,0,9,12
+277,Stalowy Miecz,Bron,Bron,1.4,False,0,0,0,12,0
+278,Ostry Stalowy Topór Many,Bron,Bron,1.6,False,0,0,5,17,0
+279,£uk Zdrowia,Bron,Bron,0.6,False,0,5,0,9,0
+280,Elastyczny £uk Charyzmy,Bron,Bron,0.6,False,0,0,0,7,7
+281,Elastyczny £uk Zdrowia,Bron,Bron,0.6,False,0,11,0,7,0
+282,£uk Charyzmy,Bron,Bron,0.6,False,0,0,0,8,3
+283,Têpy Stalowy Topór Zdrowia,Bron,Bron,1.5,False,0,8,0,13,0
+284,Elastyczny £uk Zdrowia,Bron,Bron,0.7,False,0,4,0,9,0
+285,Drewniany Miecz,Bron,Bron,0.7,False,0,0,0,6,0
+286,£uk Zdrowia,Bron,Bron,0.5,False,0,6,0,8,0
+287,Ostry Stalowy Topór Zdrowia,Bron,Bron,1.4,False,0,10,0,18,0
+288,Stalowy Miecz Charyzmy,Bron,Bron,1.4,False,0,0,0,11,6
+289,£uk Charyzmy,Bron,Bron,0.5,False,0,0,0,9,6
+290,Têpy Drewniany Topór Many,Bron,Bron,0.7,False,0,0,5,6,0
+291,£uk,Bron,Bron,0.6,False,0,0,0,7,0
+292,Têpy Stalowy Miecz Many,Bron,Bron,1.3,False,0,0,12,10,0
+293,Têpy Drewniany Miecz Zdrowia,Bron,Bron,0.8,False,0,11,0,4,0
+294,Ostry Stalowy Topór Many,Bron,Bron,1.5,False,0,0,9,18,0
+295,Têpy Stalowy Miecz,Bron,Bron,1.2,False,0,0,0,12,0
+296,Zu¿yty £uk Zdrowia,Bron,Bron,0.5,False,0,6,0,7,0
+297,Têpy Drewniany Topór Zdrowia,Bron,Bron,0.9,False,0,9,0,7,0
+298,Têpy Drewniany Miecz Many,Bron,Bron,0.7,False,0,0,5,5,0
+299,Zu¿yty £uk Zdrowia,Bron,Bron,0.6,False,0,4,0,7,0
+300,Elastyczny £uk Zdrowia,Bron,Bron,0.5,False,0,7,0,9,0
+301,Drewniany Miecz Many,Bron,Bron,0.6,False,0,0,8,7,0
+302,Stalowy Topór Charyzmy,Bron,Bron,1.5,False,0,0,0,15,11
+303,Ostry Stalowy Miecz Many,Bron,Bron,1.4,False,0,0,8,15,0
+304,Drewniany Miecz Zdrowia,Bron,Bron,0.7,False,0,12,0,7,0
+305,Stalowy Topór,Bron,Bron,1.5,False,0,0,0,14,0
+306,Ostry Drewniany Miecz Zdrowia,Bron,Bron,0.7,False,0,12,0,9,0
+307,Têpy Stalowy Miecz,Bron,Bron,1.3,False,0,0,0,10,0
+308,Têpy Drewniany Miecz Charyzmy,Bron,Bron,0.8,False,0,0,0,5,8
+309,Ostry Stalowy Miecz Charyzmy,Bron,Bron,1.2,False,0,0,0,14,4
+310,Têpy Drewniany Miecz,Bron,Bron,0.6,False,0,0,0,5,0
+311,Zu¿yty £uk Zdrowia,Bron,Bron,0.5,False,0,6,0,8,0
+312,Ostry Drewniany Topór Charyzmy,Bron,Bron,0.7,False,0,0,0,10,12
+313,Ostry Drewniany Topór Charyzmy,Bron,Bron,0.9,False,0,0,0,11,12
+314,Ostry Drewniany Miecz Charyzmy,Bron,Bron,0.7,False,0,0,0,9,7
+315,Zu¿yty £uk,Bron,Bron,0.5,False,0,0,0,9,0
+316,Zu¿yty £uk Many,Bron,Bron,0.6,False,0,0,7,7,0
+317,£uk,Bron,Bron,0.6,False,0,0,0,8,0
+318,Têpy Stalowy Topór Many,Bron,Bron,1.6,False,0,0,10,12,0
+319,Stalowy Miecz Many,Bron,Bron,1.2,False,0,0,12,11,0
+320,Elastyczny £uk,Bron,Bron,0.6,False,0,0,0,8,0
+321,£uk Zdrowia,Bron,Bron,0.5,False,0,10,0,7,0
+322,Stalowy Topór,Bron,Bron,1.4,False,0,0,0,14,0
+323,Elastyczny £uk,Bron,Bron,0.6,False,0,0,0,9,0
+324,Drewniany Miecz Zdrowia,Bron,Bron,0.8,False,0,12,0,8,0
+325,£uk Charyzmy,Bron,Bron,0.7,False,0,0,0,8,6
+326,Elastyczny £uk Many,Bron,Bron,0.5,False,0,0,3,7,0
+327,£uk Zdrowia,Bron,Bron,0.6,False,0,4,0,8,0
+328,Ostry Stalowy Topór Charyzmy,Bron,Bron,1.6,False,0,0,0,17,8
+329,Ostry Drewniany Topór,Bron,Bron,0.8,False,0,0,0,12,0
+330,Elastyczny £uk Many,Bron,Bron,0.5,False,0,0,6,8,0
+331,Ostry Stalowy Miecz,Bron,Bron,1.2,False,0,0,0,13,0
+332,Ostry Drewniany Miecz Zdrowia,Bron,Bron,0.8,False,0,10,0,9,0
+333,Têpy Drewniany Miecz Zdrowia,Bron,Bron,0.8,False,0,4,0,6,0
+334,Ostry Stalowy Topór,Bron,Bron,1.4,False,0,0,0,18,0
+335,Stalowy Topór Many,Bron,Bron,1.5,False,0,0,6,16,0
+336,Elastyczny £uk Charyzmy,Bron,Bron,0.5,False,0,0,0,8,11
+337,Stalowy Topór Charyzmy,Bron,Bron,1.6,False,0,0,0,14,6
+338,Têpy Stalowy Miecz,Bron,Bron,1.3,False,0,0,0,9,0
+339,Têpy Drewniany Topór Charyzmy,Bron,Bron,0.9,False,0,0,0,5,4
+340,Ostry Drewniany Topór Zdrowia,Bron,Bron,0.8,False,0,5,0,10,0
+341,Stalowy Miecz Charyzmy,Bron,Bron,1.4,False,0,0,0,13,12
+342,Elastyczny £uk Charyzmy,Bron,Bron,0.6,False,0,0,0,9,8
+343,Elastyczny £uk Zdrowia,Bron,Bron,0.7,False,0,8,0,9,0
+344,Zu¿yty £uk Many,Bron,Bron,0.6,False,0,0,7,9,0
+345,Elastyczny £uk,Bron,Bron,0.7,False,0,0,0,8,0
+346,Ostry Drewniany Topór Many,Bron,Bron,0.8,False,0,0,10,13,0
+347,Ostry Stalowy Miecz,Bron,Bron,1.4,False,0,0,0,14,0
+348,Elastyczny £uk Zdrowia,Bron,Bron,0.6,False,0,9,0,8,0
+349,£uk Zdrowia,Bron,Bron,0.6,False,0,5,0,8,0
+350,Ostry Stalowy Topór,Bron,Bron,1.6,False,0,0,0,18,0
+351,Ostry Stalowy Topór Charyzmy,Bron,Bron,1.4,False,0,0,0,16,10
+352,Elastyczny £uk Charyzmy,Bron,Bron,0.7,False,0,0,0,8,8
+353,Elastyczny £uk Many,Bron,Bron,0.6,False,0,0,3,9,0
+354,Stalowy Topór Charyzmy,Bron,Bron,1.4,False,0,0,0,15,12
+355,Stalowy Topór Zdrowia,Bron,Bron,1.4,False,0,12,0,15,0
+356,Drewniany Topór Zdrowia,Bron,Bron,0.7,False,0,5,0,10,0
+357,Drewniany Miecz,Bron,Bron,0.7,False,0,0,0,6,0
+358,Ostry Stalowy Miecz Many,Bron,Bron,1.2,False,0,0,8,13,0
+359,Têpy Drewniany Topór Many,Bron,Bron,0.8,False,0,0,10,8,0
+360,Elastyczny £uk Many,Bron,Bron,0.5,False,0,0,9,9,0
+361,Ostry Drewniany Topór Many,Bron,Bron,0.7,False,0,0,12,10,0
+362,Ostry Drewniany Miecz,Bron,Bron,0.6,False,0,0,0,9,0
+363,Elastyczny £uk Many,Bron,Bron,0.7,False,0,0,10,8,0
+364,Ostry Drewniany Miecz,Bron,Bron,0.7,False,0,0,0,8,0
+365,Têpy Drewniany Miecz Zdrowia,Bron,Bron,0.7,False,0,3,0,7,0
+366,Drewniany Miecz Many,Bron,Bron,0.7,False,0,0,11,6,0
+367,Drewniany Topór Zdrowia,Bron,Bron,0.7,False,0,7,0,10,0
+368,£uk Many,Bron,Bron,0.6,False,0,0,10,7,0
+369,Stalowy Topór Charyzmy,Bron,Bron,1.6,False,0,0,0,16,7
+370,Ostry Stalowy Miecz Many,Bron,Bron,1.2,False,0,0,6,13,0
+371,Têpy Drewniany Miecz,Bron,Bron,0.8,False,0,0,0,7,0
+372,Têpy Drewniany Miecz Many,Bron,Bron,0.6,False,0,0,9,5,0
+373,£uk Charyzmy,Bron,Bron,0.7,False,0,0,0,7,6
+374,Ostry Drewniany Topór Zdrowia,Bron,Bron,0.9,False,0,5,0,12,0
+375,£uk,Bron,Bron,0.7,False,0,0,0,8,0
+376,Stalowy Topór Charyzmy,Bron,Bron,1.4,False,0,0,0,15,3
+377,Zu¿yty £uk Many,Bron,Bron,0.6,False,0,0,9,9,0
+378,Ostry Stalowy Topór Many,Bron,Bron,1.6,False,0,0,12,16,0
+379,£uk,Bron,Bron,0.5,False,0,0,0,9,0
+380,Têpy Drewniany Miecz Charyzmy,Bron,Bron,0.6,False,0,0,0,5,11
+381,Elastyczny £uk,Bron,Bron,0.6,False,0,0,0,8,0
+382,Zu¿yty £uk Many,Bron,Bron,0.5,False,0,0,3,9,0
+383,Zu¿yty £uk Zdrowia,Bron,Bron,0.7,False,0,12,0,7,0
+384,Elastyczny £uk Charyzmy,Bron,Bron,0.7,False,0,0,0,7,3
+385,Ostry Stalowy Topór Charyzmy,Bron,Bron,1.6,False,0,0,0,18,8
+386,Stalowy Miecz Many,Bron,Bron,1.3,False,0,0,3,12,0
+387,Zu¿yty £uk Charyzmy,Bron,Bron,0.5,False,0,0,0,7,3
+388,Ostry Drewniany Miecz,Bron,Bron,0.8,False,0,0,0,10,0
+389,Drewniany Topór Charyzmy,Bron,Bron,0.9,False,0,0,0,9,11
+390,Têpy Stalowy Topór,Bron,Bron,1.4,False,0,0,0,13,0
+391,Têpy Stalowy Topór,Bron,Bron,1.5,False,0,0,0,12,0
+392,Ostry Drewniany Topór,Bron,Bron,0.7,False,0,0,0,10,0
+393,Têpy Stalowy Topór Charyzmy,Bron,Bron,1.5,False,0,0,0,12,8
+394,Têpy Drewniany Topór Zdrowia,Bron,Bron,0.7,False,0,7,0,8,0
+395,Têpy Drewniany Topór,Bron,Bron,0.9,False,0,0,0,6,0
+396,Ostry Stalowy Miecz Charyzmy,Bron,Bron,1.2,False,0,0,0,14,3
+397,Ostry Stalowy Miecz Many,Bron,Bron,1.2,False,0,0,7,12,0
+398,Drewniany Topór Many,Bron,Bron,0.8,False,0,0,9,10,0
+399,Têpy Drewniany Topór Many,Bron,Bron,0.8,False,0,0,3,8,0
+400,Drewniany Topór Zdrowia,Bron,Bron,0.9,False,0,5,0,10,0
+401,Têpy Stalowy Miecz Charyzmy,Bron,Bron,1.3,False,0,0,0,10,5
+402,Elastyczny £uk,Bron,Bron,0.5,False,0,0,0,9,0
+403,Têpy Drewniany Miecz Zdrowia,Bron,Bron,0.6,False,0,5,0,5,0
+404,Drewniany Miecz,Bron,Bron,0.8,False,0,0,0,7,0
+405,Drewniany Miecz Charyzmy,Bron,Bron,0.6,False,0,0,0,6,9
+406,£uk Charyzmy,Bron,Bron,0.6,False,0,0,0,8,10
+407,Elastyczny £uk Zdrowia,Bron,Bron,0.5,False,0,5,0,7,0
+408,Drewniany Miecz Zdrowia,Bron,Bron,0.7,False,0,5,0,8,0
+409,Têpy Drewniany Miecz Zdrowia,Bron,Bron,0.7,False,0,10,0,6,0
+410,Drewniany Topór Charyzmy,Bron,Bron,0.7,False,0,0,0,10,5
+411,Stalowy Topór Many,Bron,Bron,1.6,False,0,0,10,14,0
+412,Drewniany Topór Charyzmy,Bron,Bron,0.9,False,0,0,0,10,11
+413,£uk Many,Bron,Bron,0.5,False,0,0,7,7,0
+414,Têpy Drewniany Topór Zdrowia,Bron,Bron,0.8,False,0,11,0,7,0
+415,Drewniany Miecz Many,Bron,Bron,0.8,False,0,0,7,6,0
+416,Ostry Stalowy Miecz Zdrowia,Bron,Bron,1.4,False,0,12,0,14,0
+417,Elastyczny £uk Many,Bron,Bron,0.5,False,0,0,12,9,0
+418,Ostry Drewniany Topór Zdrowia,Bron,Bron,0.9,False,0,7,0,11,0
+419,Ostry Stalowy Miecz Zdrowia,Bron,Bron,1.2,False,0,10,0,13,0
+420,Drewniany Miecz Zdrowia,Bron,Bron,0.6,False,0,6,0,6,0
+421,Stalowy Miecz Many,Bron,Bron,1.3,False,0,0,6,11,0
+422,Stalowy Miecz,Bron,Bron,1.4,False,0,0,0,13,0
+423,Elastyczny £uk Zdrowia,Bron,Bron,0.5,False,0,6,0,8,0
+424,Ostry Drewniany Topór Many,Bron,Bron,0.9,False,0,0,3,12,0
+425,Drewniany Topór,Bron,Bron,0.7,False,0,0,0,8,0
+426,Ostry Stalowy Miecz Charyzmy,Bron,Bron,1.4,False,0,0,0,15,10
+427,Ostry Drewniany Topór,Bron,Bron,0.8,False,0,0,0,11,0
+428,Ostry Stalowy Topór Zdrowia,Bron,Bron,1.6,False,0,4,0,17,0
+429,Elastyczny £uk Zdrowia,Bron,Bron,0.7,False,0,7,0,9,0
+430,Drewniany Topór Many,Bron,Bron,0.8,False,0,0,5,9,0
+431,Ostry Stalowy Topór Charyzmy,Bron,Bron,1.6,False,0,0,0,18,8
+432,£uk Zdrowia,Bron,Bron,0.5,False,0,5,0,7,0
+433,Têpy Stalowy Topór Zdrowia,Bron,Bron,1.5,False,0,5,0,11,0
+434,Ostry Drewniany Miecz Zdrowia,Bron,Bron,0.7,False,0,5,0,9,0
+435,Drewniany Topór Many,Bron,Bron,0.9,False,0,0,5,8,0
+436,£uk Zdrowia,Bron,Bron,0.6,False,0,9,0,7,0
+437,Elastyczny £uk Charyzmy,Bron,Bron,0.5,False,0,0,0,8,3
+438,Ostry Stalowy Topór Charyzmy,Bron,Bron,1.5,False,0,0,0,17,6
+439,Ostry Stalowy Miecz,Bron,Bron,1.4,False,0,0,0,13,0
+440,Stalowy Topór Zdrowia,Bron,Bron,1.4,False,0,9,0,15,0
+441,£uk Many,Bron,Bron,0.5,False,0,0,5,8,0
+442,Têpy Drewniany Miecz Charyzmy,Bron,Bron,0.6,False,0,0,0,7,4
+443,Têpy Stalowy Miecz Zdrowia,Bron,Bron,1.3,False,0,6,0,11,0
+444,Têpy Drewniany Miecz Many,Bron,Bron,0.6,False,0,0,3,5,0
+445,Zu¿yty £uk,Bron,Bron,0.6,False,0,0,0,9,0
+446,Têpy Stalowy Miecz Charyzmy,Bron,Bron,1.4,False,0,0,0,10,10
+447,Têpy Stalowy Miecz Charyzmy,Bron,Bron,1.2,False,0,0,0,11,10
+448,Zu¿yty £uk Zdrowia,Bron,Bron,0.6,False,0,7,0,8,0
+449,Têpy Drewniany Miecz Charyzmy,Bron,Bron,0.8,False,0,0,0,6,12
+450,£uk Zdrowia,Bron,Bron,0.7,False,0,5,0,8,0
+451,Ostry Stalowy Topór Many,Bron,Bron,1.5,False,0,0,3,17,0
+452,Têpy Drewniany Topór Zdrowia,Bron,Bron,0.9,False,0,8,0,7,0
+453,Têpy Stalowy Miecz Charyzmy,Bron,Bron,1.4,False,0,0,0,10,7
+454,Drewniany Miecz,Bron,Bron,0.7,False,0,0,0,6,0
+455,Stalowy Miecz,Bron,Bron,1.2,False,0,0,0,13,0
+456,Elastyczny £uk Charyzmy,Bron,Bron,0.5,False,0,0,0,7,6
+457,Têpy Stalowy Topór,Bron,Bron,1.5,False,0,0,0,12,0
+458,Drewniany Miecz Many,Bron,Bron,0.8,False,0,0,11,8,0
+459,Ostry Stalowy Miecz,Bron,Bron,1.3,False,0,0,0,13,0
+460,Ostry Stalowy Topór Zdrowia,Bron,Bron,1.6,False,0,4,0,18,0
+461,Elastyczny £uk Charyzmy,Bron,Bron,0.6,False,0,0,0,9,8
+462,Têpy Drewniany Miecz Zdrowia,Bron,Bron,0.8,False,0,6,0,7,0
+463,£uk Zdrowia,Bron,Bron,0.6,False,0,5,0,8,0
+464,Zu¿yty £uk,Bron,Bron,0.7,False,0,0,0,8,0
+465,Elastyczny £uk Zdrowia,Bron,Bron,0.6,False,0,8,0,9,0
+466,Drewniany Miecz Zdrowia,Bron,Bron,0.8,False,0,7,0,8,0
+467,£uk Many,Bron,Bron,0.7,False,0,0,3,7,0
+468,Têpy Stalowy Miecz Charyzmy,Bron,Bron,1.3,False,0,0,0,10,8
+469,Stalowy Miecz Charyzmy,Bron,Bron,1.3,False,0,0,0,12,12
+470,Drewniany Topór,Bron,Bron,0.8,False,0,0,0,9,0
+471,Têpy Stalowy Topór Many,Bron,Bron,1.6,False,0,0,12,12,0
+472,Elastyczny £uk Charyzmy,Bron,Bron,0.5,False,0,0,0,9,7
+473,Stalowy Miecz Zdrowia,Bron,Bron,1.2,False,0,8,0,13,0
+474,Ostry Stalowy Miecz Zdrowia,Bron,Bron,1.2,False,0,7,0,12,0
+475,Ostry Stalowy Miecz Many,Bron,Bron,1.2,False,0,0,9,15,0
+476,Ostry Stalowy Topór Many,Bron,Bron,1.5,False,0,0,3,17,0
+477,£uk,Bron,Bron,0.7,False,0,0,0,7,0
+478,Elastyczny £uk,Bron,Bron,0.7,False,0,0,0,9,0
+479,Têpy Stalowy Topór Zdrowia,Bron,Bron,1.6,False,0,7,0,11,0
+480,Têpy Drewniany Miecz Charyzmy,Bron,Bron,0.6,False,0,0,0,5,6
+481,Zu¿yty £uk,Bron,Bron,0.6,False,0,0,0,8,0
+482,Stalowy Topór Charyzmy,Bron,Bron,1.4,False,0,0,0,15,10
+483,Ostry Stalowy Miecz,Bron,Bron,1.4,False,0,0,0,15,0
+484,Têpy Stalowy Topór Many,Bron,Bron,1.4,False,0,0,5,12,0
+485,Elastyczny £uk Charyzmy,Bron,Bron,0.5,False,0,0,0,8,12
+486,Drewniany Miecz Many,Bron,Bron,0.6,False,0,0,7,6,0
+487,Stalowy Miecz Zdrowia,Bron,Bron,1.4,False,0,10,0,13,0
+488,Ostry Drewniany Miecz Many,Bron,Bron,0.8,False,0,0,3,7,0
+489,Stalowy Topór Many,Bron,Bron,1.6,False,0,0,10,16,0
+490,Elastyczny £uk Charyzmy,Bron,Bron,0.7,False,0,0,0,8,5
+491,Drewniany Miecz Charyzmy,Bron,Bron,0.8,False,0,0,0,7,7
+492,Zu¿yty £uk Charyzmy,Bron,Bron,0.7,False,0,0,0,7,6
+493,Têpy Drewniany Miecz,Bron,Bron,0.8,False,0,0,0,5,0
+494,Elastyczny £uk Charyzmy,Bron,Bron,0.7,False,0,0,0,8,7
+495,Têpy Stalowy Topór Zdrowia,Bron,Bron,1.4,False,0,8,0,13,0
+496,Drewniany Miecz,Bron,Bron,0.8,False,0,0,0,8,0
+497,£uk,Bron,Bron,0.7,False,0,0,0,8,0
+498,£uk Charyzmy,Bron,Bron,0.6,False,0,0,0,9,3
+499,£uk Charyzmy,Bron,Bron,0.5,False,0,0,0,8,8
+500,Elastyczny £uk Many,Bron,Bron,0.7,False,0,0,8,8,0
+501,£uk,Bron,Bron,0.7,False,0,0,0,8,0
+502,Ostry Drewniany Miecz Many,Bron,Bron,0.8,False,0,0,7,8,0
+503,Ostry Drewniany Miecz Many,Bron,Bron,0.7,False,0,0,12,7,0
+504,Têpy Drewniany Topór Charyzmy,Bron,Bron,0.8,False,0,0,0,6,12
+505,£uk,Bron,Bron,0.5,False,0,0,0,7,0
+506,Zu¿yty £uk Charyzmy,Bron,Bron,0.6,False,0,0,0,7,8
+507,Ostry Drewniany Topór Zdrowia,Bron,Bron,0.9,False,0,11,0,12,0
+508,Ostry Drewniany Miecz,Bron,Bron,0.7,False,0,0,0,7,0
+509,£uk Zdrowia,Bron,Bron,0.6,False,0,5,0,7,0
+510,Stalowy Topór Many,Bron,Bron,1.4,False,0,0,10,14,0
+511,Têpy Stalowy Topór,Bron,Bron,1.6,False,0,0,0,12,0
+512,Têpy Drewniany Miecz,Bron,Bron,0.6,False,0,0,0,5,0
+513,Stalowy Miecz Charyzmy,Bron,Bron,1.2,False,0,0,0,11,12
+514,Ostry Drewniany Miecz,Bron,Bron,0.6,False,0,0,0,8,0
+515,Elastyczny £uk Charyzmy,Bron,Bron,0.6,False,0,0,0,7,9
+516,Drewniany Topór Zdrowia,Bron,Bron,0.8,False,0,7,0,9,0
+517,Têpy Drewniany Topór Charyzmy,Bron,Bron,0.7,False,0,0,0,5,8
+518,Stalowy Miecz,Bron,Bron,1.4,False,0,0,0,13,0
+519,Elastyczny £uk Many,Bron,Bron,0.5,False,0,0,8,9,0
+520,Zu¿yty £uk,Bron,Bron,0.7,False,0,0,0,8,0
+521,Elastyczny £uk Zdrowia,Bron,Bron,0.5,False,0,11,0,9,0
+522,Ostry Stalowy Miecz Charyzmy,Bron,Bron,1.2,False,0,0,0,13,4
+523,Zu¿yty £uk,Bron,Bron,0.5,False,0,0,0,8,0
+524,Ostry Drewniany Topór Charyzmy,Bron,Bron,0.7,False,0,0,0,12,4
+525,Drewniany Topór,Bron,Bron,0.9,False,0,0,0,10,0
+526,Zu¿yty £uk,Bron,Bron,0.6,False,0,0,0,9,0
+527,Elastyczny £uk Zdrowia,Bron,Bron,0.7,False,0,6,0,7,0
+528,Têpy Drewniany Miecz Many,Bron,Bron,0.7,False,0,0,5,5,0
+529,Stalowy Miecz,Bron,Bron,1.4,False,0,0,0,13,0
+530,Têpy Stalowy Topór Zdrowia,Bron,Bron,1.5,False,0,8,0,12,0
+531,Drewniany Topór Charyzmy,Bron,Bron,0.7,False,0,0,0,10,9
+532,Elastyczny £uk Charyzmy,Bron,Bron,0.5,False,0,0,0,7,9
+533,£uk Many,Bron,Bron,0.5,False,0,0,10,8,0
+534,Ostry Drewniany Topór Many,Bron,Bron,0.8,False,0,0,7,13,0
+535,Stalowy Miecz Zdrowia,Bron,Bron,1.3,False,0,3,0,12,0
+536,Stalowy Miecz Zdrowia,Bron,Bron,1.3,False,0,5,0,12,0
+537,£uk Many,Bron,Bron,0.7,False,0,0,4,9,0
+538,£uk,Bron,Bron,0.5,False,0,0,0,7,0
+539,Têpy Stalowy Topór Zdrowia,Bron,Bron,1.5,False,0,4,0,13,0
+540,Drewniany Miecz Zdrowia,Bron,Bron,0.8,False,0,3,0,8,0
+541,Zu¿yty £uk Charyzmy,Bron,Bron,0.6,False,0,0,0,8,12
+542,Ostry Drewniany Miecz Charyzmy,Bron,Bron,0.7,False,0,0,0,10,11
+543,Elastyczny £uk,Bron,Bron,0.6,False,0,0,0,8,0
+544,Têpy Stalowy Miecz,Bron,Bron,1.3,False,0,0,0,12,0
+545,Ostry Stalowy Topór Charyzmy,Bron,Bron,1.4,False,0,0,0,16,6
+546,Stalowy Miecz,Bron,Bron,1.3,False,0,0,0,12,0
+547,Stalowy Topór Charyzmy,Bron,Bron,1.5,False,0,0,0,15,10
+548,Stalowy Topór Zdrowia,Bron,Bron,1.4,False,0,7,0,15,0
+549,Têpy Stalowy Topór Zdrowia,Bron,Bron,1.4,False,0,9,0,13,0
+550,Zu¿yty £uk Zdrowia,Bron,Bron,0.7,False,0,8,0,7,0
+551,Têpy Stalowy Topór Charyzmy,Bron,Bron,1.5,False,0,0,0,12,10
+552,Têpy Stalowy Miecz Zdrowia,Bron,Bron,1.4,False,0,9,0,11,0
+553,Elastyczny £uk Charyzmy,Bron,Bron,0.5,False,0,0,0,7,8
+554,Drewniany Topór Charyzmy,Bron,Bron,0.7,False,0,0,0,8,11
+555,Têpy Stalowy Miecz Charyzmy,Bron,Bron,1.2,False,0,0,0,12,11
+556,Elastyczny £uk Zdrowia,Bron,Bron,0.6,False,0,7,0,9,0
+557,Drewniany Miecz Charyzmy,Bron,Bron,0.6,False,0,0,0,7,8
+558,Têpy Stalowy Miecz Zdrowia,Bron,Bron,1.2,False,0,7,0,9,0
+559,Stalowy Miecz Zdrowia,Bron,Bron,1.4,False,0,9,0,13,0
+560,Ostry Drewniany Miecz,Bron,Bron,0.6,False,0,0,0,9,0
+561,£uk Zdrowia,Bron,Bron,0.6,False,0,6,0,9,0
+562,Elastyczny £uk,Bron,Bron,0.5,False,0,0,0,9,0
+563,Ostry Drewniany Topór Zdrowia,Bron,Bron,0.7,False,0,3,0,11,0
+564,Ostry Stalowy Topór Zdrowia,Bron,Bron,1.5,False,0,4,0,19,0
+565,Stalowy Topór Zdrowia,Bron,Bron,1.4,False,0,7,0,14,0
+566,Ostry Stalowy Miecz,Bron,Bron,1.3,False,0,0,0,14,0
+567,Ostry Drewniany Miecz Zdrowia,Bron,Bron,0.6,False,0,5,0,8,0
+568,Têpy Drewniany Miecz Many,Bron,Bron,0.6,False,0,0,7,6,0
+569,Stalowy Miecz Many,Bron,Bron,1.4,False,0,0,4,13,0
+570,Elastyczny £uk Many,Bron,Bron,0.7,False,0,0,6,9,0
+571,Zu¿yty £uk,Bron,Bron,0.6,False,0,0,0,9,0
+572,Ostry Stalowy Miecz,Bron,Bron,1.2,False,0,0,0,12,0
+573,Têpy Stalowy Miecz Zdrowia,Bron,Bron,1.3,False,0,3,0,9,0
+574,Zu¿yty £uk Zdrowia,Bron,Bron,0.6,False,0,5,0,7,0
+575,Zu¿yty £uk Zdrowia,Bron,Bron,0.7,False,0,7,0,9,0
+576,Têpy Drewniany Topór,Bron,Bron,0.9,False,0,0,0,8,0
+577,£uk Zdrowia,Bron,Bron,0.5,False,0,4,0,7,0
+578,Têpy Drewniany Topór,Bron,Bron,0.8,False,0,0,0,6,0
+579,Zu¿yty £uk Many,Bron,Bron,0.5,False,0,0,7,8,0
+580,Zu¿yty £uk Charyzmy,Bron,Bron,0.6,False,0,0,0,9,11
+581,Ostry Drewniany Miecz Charyzmy,Bron,Bron,0.6,False,0,0,0,8,4
+582,Têpy Drewniany Topór Many,Bron,Bron,0.9,False,0,0,12,6,0
+583,Zu¿yty £uk Zdrowia,Bron,Bron,0.5,False,0,4,0,7,0
+584,Drewniany Miecz Many,Bron,Bron,0.6,False,0,0,7,8,0
+585,Stalowy Miecz Zdrowia,Bron,Bron,1.4,False,0,5,0,13,0
+586,Ostry Drewniany Miecz Many,Bron,Bron,0.6,False,0,0,5,7,0
+587,£uk Many,Bron,Bron,0.6,False,0,0,7,8,0
+588,Ostry Drewniany Topór Charyzmy,Bron,Bron,0.9,False,0,0,0,13,10
+589,Têpy Drewniany Topór Many,Bron,Bron,0.9,False,0,0,12,8,0
+590,Ostry Drewniany Topór Zdrowia,Bron,Bron,0.7,False,0,12,0,13,0
+591,Zu¿yty £uk Zdrowia,Bron,Bron,0.7,False,0,6,0,9,0
+592,Drewniany Miecz Zdrowia,Bron,Bron,0.7,False,0,4,0,6,0
+593,£uk Zdrowia,Bron,Bron,0.6,False,0,11,0,7,0
+594,Ostry Drewniany Topór Zdrowia,Bron,Bron,0.8,False,0,3,0,12,0
+595,Ostry Stalowy Topór Zdrowia,Bron,Bron,1.4,False,0,10,0,18,0
+596,Zu¿yty £uk Many,Bron,Bron,0.6,False,0,0,11,9,0
+597,Drewniany Topór Many,Bron,Bron,0.9,False,0,0,9,10,0
+598,Ostry Drewniany Topór Charyzmy,Bron,Bron,0.7,False,0,0,0,11,8
+599,Têpy Drewniany Topór Zdrowia,Bron,Bron,0.8,False,0,3,0,6,0
+600,Stalowy Miecz Many,Bron,Bron,1.2,False,0,0,8,11,0
+601,Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.2,True,9,0,0,0,0
+602,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,11
+603,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,21,0,0,0,0
+604,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,5
+605,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,8,0
+606,Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.2,True,10,0,0,0,0
+607,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,9,0
+608,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,8,5
+609,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
+610,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,3,0
+611,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,10,0
+612,Ulepszony Olejek Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,11,0,0
+613,Ma³a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,3,0,0,0
+614,Ulepszony Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,11
+615,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,20,0
+616,Ulepszony Olejek Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,10,0,0
+617,Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,5
+618,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,18,0
+619,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,2,0
+620,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,20,0,0,0,0
+621,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,5,0
+622,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,3,0
+623,Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,5
+624,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,0,0
+625,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,10,0
+626,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,0
+627,Ulepszony Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,9,0,0,0
+628,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,0,0
+629,Ma³a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,3,0,0,0
+630,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,9,0
+631,Ulepszony Olejek Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,11,0,0
+632,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,19,0,0,0,0
+633,Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,0,0
+634,Têpa Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,3,0
+635,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,10,0,0,0
+636,Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,0,0
+637,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,11,0
+638,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,11,4
+639,Ulepszony Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,10,0,0,0
+640,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,9,6
+641,Ma³a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,0,0
+642,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,11
+643,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,10
+644,Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+645,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,8,0
+646,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,0,0
+647,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,6,0
+648,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
+649,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,0
+650,Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,0,0
+651,Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+652,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,3,0,0
+653,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,2,0
+654,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,3,6
+655,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+656,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,2,0
+657,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,0
+658,Ulepszony Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,10,0,0,0
+659,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
+660,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,0,0
+661,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,10,0
+662,Têpa Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+663,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,10,0
+664,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,4,0
+665,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,19,0,0,0,0
+666,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
+667,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,0
+668,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,21,0,0,0,0
+669,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,3
+670,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
+671,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,19,0
+672,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,3,0
+673,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,9
+674,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,11,0
+675,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,10,0
+676,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,11,0
+677,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,12,0
+678,Ma³a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,0,0
+679,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,11,0
+680,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,0
+681,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,5,0
+682,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,2,0
+683,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,6,0
+684,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,11,0
+685,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,19,0
+686,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,6,0
+687,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,11,4
+688,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,0,0
+689,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,11,0
+690,Ma³a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,2,0,0,0
+691,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,11,0
+692,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,2,0
+693,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,8,0
+694,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,19
+695,Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,6
+696,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,10,0
+697,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,0,0
+698,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,18,0,0
+699,Ulepszony Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,11,0,0,0
+700,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,2
+701,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,9,0,0,0
+702,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,10,0
+703,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,0
+704,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,10,0,0
+705,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,3
+706,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,11,0,0
+707,Ulepszony Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,10,0,0,0
+708,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,5
+709,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,3,0,0
+710,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,5
+711,Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,0,0
+712,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
+713,Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+714,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,2,0
+715,Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.2,True,9,0,0,0,0
+716,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,11,0
+717,Ma³a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,0,0
+718,Ulepszony Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,10
+719,Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,0
+720,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,10
+721,Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.2,True,9,0,0,0,0
+722,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,19,0,0
+723,Ma³a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.1,True,4,0,0,0,0
+724,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,10
+725,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,2
+726,Ma³a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.1,True,3,0,0,0,0
+727,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,4,0
+728,Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,0
+729,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,0
+730,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,3
+731,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+732,Ma³a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.1,True,5,0,0,0,0
+733,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
+734,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,19,0,0,0,0
+735,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,19
+736,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,0,0
+737,Du¿a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.3,True,0,19,0,0,0
+738,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,9,0
+739,Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.2,True,10,0,0,0,0
+740,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,18
+741,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,5,0
+742,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,11,0
+743,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,9,0
+744,Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,0,0
+745,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,3,0
+746,Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,0
+747,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,3,0,0
+748,Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.2,True,10,0,0,0,0
+749,Ulepszony Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,11
+750,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,8,0
+751,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,6
+752,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,5,0
+753,Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,5
+754,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,20,0,0
+755,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,9
+756,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,4,0
+757,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,6,0
+758,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,10,0
+759,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,10,0
+760,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,21,0,0
+761,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,9,0
+762,Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,0,0
+763,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,5
+764,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,0,0
+765,Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,0
+766,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,4,0
+767,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,10,0
+768,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,18
+769,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,11,0,0
+770,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,4,0
+771,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+772,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,18
+773,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,5,0
+774,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,3,0
+775,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,9,0
+776,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,3
+777,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
+778,Ulepszony Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,11,0,0,0
+779,Du¿a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.3,True,0,20,0,0,0
+780,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,0
+781,Ulepszony Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,11,0,0,0
+782,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,0,0
+783,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,9
+784,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,1,0
+785,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,11,0
+786,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,5
+787,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,11,0
+788,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
+789,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,4,0
+790,Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+791,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,11,0
+792,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
+793,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,11,5
+794,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,12,0
+795,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,3,0,0
+796,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,11,0,0
+797,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,9,0
+798,Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.2,True,9,0,0,0,0
+799,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,9,0,0
+800,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,19,0,0,0,0
+801,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
+802,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
+803,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,19,0,0
+804,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
+805,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,9,0
+806,Du¿a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.3,True,0,20,0,0,0
+807,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,11
+808,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,1,0
+809,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,2,0
+810,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,21,0,0,0,0
+811,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
+812,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,17,0
+813,Ulepszony Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,12
+814,Ulepszony Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,10,0,0,0
+815,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,2,0
+816,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,2,6
+817,Ulepszony Olejek Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,11,0,0
+818,Ulepszony Olejek Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,11,0,0
+819,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,9,0
+820,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,0
+821,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+822,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,9,0
+823,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,2,0
+824,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,11
+825,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,6
+826,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+827,Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,5
+828,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,9,0
+829,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,0
+830,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,5,0
+831,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,3,0
+832,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,9,4
+833,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,4
+834,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,9,4
+835,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,3,0
+836,Ma³a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,0,0
+837,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
+838,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,5
+839,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,19
+840,Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,0,0
+841,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,5
+842,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,11,0
+843,Têpa Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,2,0
+844,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,5,0
+845,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,5,0
+846,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,9,0,0
+847,Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.2,True,11,0,0,0,0
+848,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,17,0,0,0,0
+849,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,0
+850,Ulepszony Olejek Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,9,0,0
+851,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
+852,Ulepszony Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,11
+853,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,11,0
+854,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,19,0,0,0,0
+855,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,12,0
+856,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,2
+857,Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,5
+858,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,20,0,0
+859,Ma³a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,2,0,0,0
+860,Du¿a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.3,True,0,20,0,0,0
+861,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
+862,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,3,0
+863,Ulepszony Olejek Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,11,0,0
+864,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,9,0,0,0
+865,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,6
+866,Ulepszony Olejek Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,10,0,0
+867,Têpa Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,3,0
+868,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,10,0
+869,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,4,0
+870,Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,5
+871,Ulepszony Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,12
+872,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,2,0
+873,Ma³a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,0,0
+874,Ulepszony Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,11,0,0,0
+875,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,2,0
+876,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,11,5
+877,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,21
+878,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,3,0
+879,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,6,0
+880,Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,5
+881,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,9,0
+882,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,10,0,0,0
+883,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
+884,Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.2,True,11,0,0,0,0
+885,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
+886,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,9
+887,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,10,0
+888,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,19,0,0
+889,Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+890,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+891,Ulepszony Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,11,0,0,0
+892,Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.2,True,9,0,0,0,0
+893,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,0,0
+894,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,9
+895,Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.2,True,9,0,0,0,0
+896,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,4,0
+897,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,8,0
+898,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,19
+899,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,11,0
+900,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,0
+901,Ma³a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+902,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,4
+903,Ulepszony Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,9
+904,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,19
+905,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,18,0,0,0,0
+906,Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,6
+907,Ulepszony Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,11
+908,Ulepszony Olejek Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,11,0,0
+909,Naostrzona Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,0
+910,Du¿a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.3,True,0,19,0,0,0
+911,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,9,0
+912,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,9,0
+913,Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+914,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,20
+915,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,8,0
+916,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,3,4
+917,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,1,0
+918,Ma³a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.1,True,5,0,0,0,0
+919,Ulepszony Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,11,0
+920,Ma³a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.1,True,3,0,0,0,0
+921,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,9,0
+922,Têpa Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,2,0
+923,Du¿a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,0,18
+924,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,2,0
+925,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,10,0
+926,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
+927,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,18,0,0
+928,Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+929,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,19,0,0
+930,Ma³a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.1,True,3,0,0,0,0
+931,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,10,0,0,0
+932,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,4,0
+933,Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,6
+934,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,11,0,0,0
+935,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,2
+936,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,5,0
+937,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
+938,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
+939,Ulepszony Olejek Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,11,0,0
+940,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,10
+941,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,9,0
+942,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,3,0,0
+943,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,4,0
+944,Olejek Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,5,0,0
+945,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,5
+946,Ma³a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.1,True,4,0,0,0,0
+947,Ulepszony Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,9,0,0,0
+948,Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+949,Ulepszony Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,11
+950,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
+951,Du¿a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,20,0,0
+952,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+953,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,6
+954,Têpa Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,3,0
+955,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,0
+956,Du¿a Mikstura Pancerza,Przedmiot_Uzytkowy,Brak,0.3,True,19,0,0,0,0
+957,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,1,0
+958,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,9,0
+959,Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,5,0
+960,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,3,0
+961,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,5
+962,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,9,0
+963,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,11,0,0,0
+964,Ma³a Mikstura Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,0,0
+965,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,5,0
+966,Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,4
+967,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,1,0
+968,Ulepszony Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,9,0,0,0
+969,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,2
+970,Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,11,0,0,0
+971,Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,4,0
+972,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,3,4
+973,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+974,Ulepszony Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.2,True,0,9,0,0,0
+975,Olejek Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,6
+976,Têpa Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,2,0
+977,Ma³a Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,0,6
+978,Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,9,0
+979,Têpa Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,4
+980,Mikstura Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,10,0,0
+981,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,6,11,0
+982,Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,0
+983,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,4
+984,Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,5,0
+985,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,10,6
+986,Olejek Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,0,0
+987,Naostrzona Strza³a Many,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,4,10,0
+988,Ulepszony Olejek Many,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,12,0,0
+989,Têpa Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+990,Olejek Si³y,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,6,0
+991,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,10,0
+992,Naostrzona Strza³a Charyzmy,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,11,5
+993,Naostrzona Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,6,0,8,0
+994,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,4,0,2,0
+995,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+996,Du¿a Mikstura Si³y,Przedmiot_Uzytkowy,Brak,0.3,True,0,0,0,20,0
+997,Strza³a,Przedmiot_Uzytkowy,Brak,0.1,True,0,0,0,4,0
+998,Mikstura Charyzmy,Przedmiot_Uzytkowy,Brak,0.2,True,0,0,0,0,9
+999,Ma³a Mikstura Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,3,0,0,0
+1000,Têpa Strza³a Zdrowia,Przedmiot_Uzytkowy,Brak,0.1,True,0,5,0,3,0
