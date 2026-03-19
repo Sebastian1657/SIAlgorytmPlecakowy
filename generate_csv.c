@@ -7,11 +7,15 @@
 //zmienne globalne
 FILE *file;
 char buf[255] = "id,nazwa,kategoria,slot,waga_kg,stackowalny,pancerz,zdrowie,mana,obrazenia,charyzma\n\0";
-int amount = 500;
+int amount = 1000;
 int id=1;
 float armor_prc=0.2, weapon_prc=0.4, item_prc=0.4;
 
-
+//argv[0] = lokacja pliku .exe
+//argv[1] = iloœæ przedmiotów do wygenerowania (domyœlnie 1000)
+//argv[2] = ile % przedmiotów to zbroja (domyœlnine 20%)
+//argv[3] = ile % przedmiotów to bronie (domyœlnie 40%)
+//argv[4] = ile % przedmiotów to przedmioty u¿ytkowe (domyœlnie 40%)
 int check_args(int argc, char* argv[])
 {
 	if(argc == 1)
@@ -618,10 +622,11 @@ void generate_items()
 	int item_amount = amount; //40% przedmiotów to zbroja
 	while(id<=item_amount)
 	{
-		int rand_type = rand()%2; //losowanie typu przedmiotu u¿ytkowego
+		int rand_type = rand()%3; //losowanie typu przedmiotu u¿ytkowego
 		int rand_atr; //zmienna dla wybierania rodzaju atrybutu przedmiotu u¿ytkowego
 		float waga = 0.0;
 		int pancerz = 0, zdrowie=0, mana=0, obrazenia=0, charyzma=0;
+		int atr_to_incr = 0; //tymczasowa zmienna dla mikstur i olejków, w której bêdzie przechowywane zwiêkszenie wybranej potem statystyki
 		char converted_int[16];
 		itoa(id,converted_int,10);
 		strcpy(buf,converted_int); //dodawanie id do bufora
@@ -637,16 +642,12 @@ void generate_items()
 					case 1: //"Ma³a"
 						strcat(buf, "Ma³a ");
 						waga -= 0.1;
-						obrazenia -= 5 + rand()%3; //-(5 - 7)
-						//to samo ka¿da inna statystyka, jako ¿e nie wiadomo jeszcze jaka to mikstura
-						zdrowie = mana = charyzma = obrazenia;
+						atr_to_incr -= 5 + rand()%3; //-(5 - 7)
 						break;
 					case 2: //"Du¿a"
 						strcat(buf, "Du¿a ");
 						waga += 0.1;
-						obrazenia += 10 - rand()%3; //+(8 - 10)
-						//to samo ka¿da inna statystyka, jako ¿e nie wiadomo jeszcze jaka to mikstura
-						zdrowie = mana = charyzma = obrazenia;
+						atr_to_incr += 10 - rand()%3; //+(8 - 10)
 						break;
 				}
 					
@@ -659,28 +660,28 @@ void generate_items()
 				switch(rand_atr)
 				{
 					case 0: //"Pancerza"
-						pancerz += 9+rand()%3; //9-11
-						zdrowie = mana = obrazenia = charyzma = 0; //wyzerowanie poprzednio zmniejszonych atrybutów niedotycz¹cych danej mikstury
+						atr_to_incr += 9+rand()%3; //9-11
+						pancerz = atr_to_incr;
 						strcat(buf, " Pancerza");
 						break;
 					case 1: //"Zdrowia"
-						zdrowie += 9+rand()%3; //9-11
-						pancerz = mana = obrazenia = charyzma = 0; //wyzerowanie poprzednio zmniejszonych atrybutów niedotycz¹cych danej mikstury
+						atr_to_incr += 9+rand()%3; //9-11
+						zdrowie = atr_to_incr;
 						strcat(buf, " Zdrowia");
 						break;
 					case 2: //"Many"
-						mana += 9+rand()%3; //9-11
-						pancerz = zdrowie = obrazenia = charyzma = 0; //wyzerowanie poprzednio zmniejszonych atrybutów niedotycz¹cych danej mikstury
+						atr_to_incr += 9+rand()%3; //9-11
+						mana = atr_to_incr;
 						strcat(buf, " Many");
 						break;
 					case 3: //"Si³y"
-						obrazenia += 9+rand()%3; //9-11
-						pancerz = zdrowie = mana = charyzma = 0; //wyzerowanie poprzednio zmniejszonych atrybutów niedotycz¹cych danej mikstury
+						atr_to_incr += 9+rand()%3; //9-11
+						obrazenia = atr_to_incr;
 						strcat(buf, " Si³y");
 						break;
 					case 4: //"Charyzmy"
-						charyzma += 9+rand()%3; //9-11
-						pancerz = zdrowie = mana = obrazenia = 0; //wyzerowanie poprzednio zmniejszonych atrybutów niedotycz¹cych danej mikstury
+						atr_to_incr += 9+rand()%3; //9-11
+						charyzma = atr_to_incr;
 						strcat(buf, " Charyzmy");
 						break;
 				}
@@ -733,8 +734,7 @@ void generate_items()
 						break;
 					case 1: //"Ulepszony"
 						strcat(buf, "Ulepszony ");
-						obrazenia += 5+rand()%2; //+(5 - 6)
-						zdrowie = mana = charyzma = obrazenia; //to samo ka¿da inna statystyka, jako ¿e nie wiadomo jeszcze jaki to olejek
+						atr_to_incr += 5+rand()%2; //+(5 - 6)
 						waga += 0.1;
 						break;
 				}
@@ -745,19 +745,25 @@ void generate_items()
 						
 				rand_atr = rand()%4; //losowanie trzeciego atrybutu ("modyfikator")
 				switch(rand_atr)
-				{ //TODO: wartoœci pozmieniaæ
-					case 0: //brak
+				{
+					case 0: //"Si³y"
+						atr_to_incr += 4+rand()%3; //4-6
+						obrazenia = atr_to_incr;
+						strcat(buf, " Si³y");
 						break;
 					case 1: //"Zdrowia"
-						zdrowie += 4+rand()%3; //4-6
+						atr_to_incr += 4+rand()%3; //4-6
+						zdrowie = atr_to_incr;
 						strcat(buf, " Zdrowia");
 						break;
 					case 2: //"Many"
-						mana += 4+rand()%3; //4-6
+						atr_to_incr += 4+rand()%3; //4-6
+						mana = atr_to_incr;
 						strcat(buf, " Many");
 						break;
 					case 3: //"Charyzmy"
-						charyzma += 4+rand()%3; //4-6
+						atr_to_incr += 4+rand()%3; //4-6
+						charyzma = atr_to_incr;
 						strcat(buf, " Charyzmy");
 						break;
 				}
